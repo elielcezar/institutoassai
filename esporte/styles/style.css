@@ -1,0 +1,763 @@
+@font-face {
+  font-family: "GothamRounded";
+  src: url("fonts/GothamRoundedLight_21020.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "GothamRounded";
+  src: url("fonts/GothamRoundedBook_21018.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "GothamRounded";
+  src: url("fonts/GothamRoundedMedium_21022.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "GothamRounded";
+  src: url("fonts/GothamRoundedBold_21016.ttf") format("truetype");
+  font-weight: 700;
+}
+body {
+  font-family: "GothamRounded";
+  font-weight: 300;
+  line-height: normal;
+  color: #5F5F5F;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+strong {
+  font-weight: 500;
+}
+
+#header {
+  background: #E9B633;
+  position: relative;
+}
+#header .header {
+  position: relative;
+  padding-left: 0;
+}
+#header .logo-instituto {
+  display: block;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 45vw;
+  width: 71vw;
+  transform: translateX(-25%);
+}
+#header .edital {
+  position: absolute;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 3.5vw;
+  top: 54%;
+  right: 3%;
+}
+#header .edital strong {
+  display: block;
+  font-weight: 700;
+  font-size: 2em;
+  line-height: 1;
+}
+#header .edital span {
+  display: block;
+  padding-left: 0.8em;
+}
+#header .inscricoes {
+  color: #ffffff;
+  background: #b71f27;
+  text-align: center;
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 2.5vw;
+  padding: 1em 2.5em;
+  border-radius: 5em;
+  filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.25));
+  right: 3%;
+  top: 4%;
+}
+#header .inscricoes strong {
+  display: block;
+  font-size: 4.5em;
+  font-weight: 700;
+  line-height: 1;
+}
+@media (min-width: 768px) {
+  #header .logo-instituto {
+    height: 230px;
+    width: 432px;
+  }
+  #header .edital {
+    font-size: 1.4rem;
+    top: 50%;
+    right: 0;
+  }
+  #header .inscricoes {
+    font-size: 12px;
+    top: 10%;
+    right: 0;
+  }
+}
+@media (min-width: 992px) {
+  #header::before {
+    content: "";
+    display: block;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: url(images/bg-header.webp) no-repeat right center;
+    background-size: cover;
+  }
+  #header .header {
+    display: flex;
+    justify-content: center;
+  }
+  #header .logo-instituto {
+    height: 400px;
+    width: 432px;
+    transform: translateX(0);
+  }
+  #header .edital {
+    font-size: 1.4rem;
+    top: 50%;
+    right: 0;
+  }
+  #header .inscricoes {
+    font-size: 15px;
+    top: 10%;
+    right: 0;
+    padding: 0.5em 2.5em;
+  }
+}
+
+.navbar {
+  background: #B71F27;
+  padding: 1rem;
+}
+.navbar .btn {
+  color: #ffffff;
+  background: #0071BC;
+  text-transform: uppercase;
+  font-size: 14px;
+  border-radius: 2rem;
+}
+.navbar ul li {
+  padding: 0.5rem 0;
+}
+.navbar ul a {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+}
+@media (min-width: 992px) {
+  .navbar .container {
+    gap: 1rem;
+  }
+  .navbar #navbarNav {
+    order: -1;
+  }
+  .navbar #navbarNav ul {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .navbar #navbarNav ul a {
+    font-size: 12px;
+  }
+}
+@media (min-width: 992px) and (min-width: 1200px) {
+  .navbar #navbarNav ul li {
+    padding: 0 0.5rem;
+  }
+  .navbar #navbarNav ul a {
+    font-size: 14px;
+  }
+}
+
+h2 {
+  font-size: 24px;
+}
+
+main {
+  overflow: hidden;
+}
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -70px;
+  visibility: hidden;
+}
+
+.barra-cta {
+  display: flex;
+  gap: 2rem;
+  margin: 2.5rem auto;
+}
+.barra-cta::before, .barra-cta::after {
+  content: "";
+  display: block;
+  background: url(images/faixa-inscreva-se.svg) repeat-x right center;
+  background-size: auto 100%;
+  flex: 1 1 auto;
+}
+.barra-cta::after {
+  background: url(images/faixa-inscreva-se.svg) repeat-x left center;
+  background-size: auto 100%;
+}
+.barra-cta .btn {
+  background: #0071BC;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 30px;
+  min-width: 300px;
+  margin: 1rem auto;
+}
+
+.btn:not(span) {
+  transition: 0.2s;
+}
+.btn:not(span):hover {
+  transform: translateY(-10%);
+}
+
+span.btn {
+  cursor: default;
+}
+
+@media (max-width: 576px) {
+  main .container {
+    --bs-gutter-x: 3rem;
+  }
+}
+section.topo {
+  padding-top: 2rem;
+}
+@media (min-width: 992px) {
+  section.topo .container {
+    display: flex;
+    align-items: center;
+  }
+}
+section.topo h2 {
+  color: #B71F27;
+  flex: 1 0 320px;
+}
+@media (min-width: 992px) {
+  section.topo h2 .container {
+    margin-right: 65px;
+  }
+}
+section.topo > div p:last-child {
+  margin-bottom: 0;
+}
+
+section.sobre-instituto {
+  overflow: hidden;
+}
+section.sobre-instituto .container {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  margin-top: -3rem;
+}
+@media (min-width: 1200px) {
+  section.sobre-instituto .container {
+    padding-right: 14rem;
+    position: relative;
+  }
+  section.sobre-instituto .container::before {
+    content: "";
+    display: block;
+    width: 156px;
+    height: 292px;
+    background: url(images/textura.svg) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    left: -3rem;
+    top: 50%;
+    transform: translate(-100%, -50%);
+  }
+  section.sobre-instituto .container::after {
+    content: "";
+    display: block;
+    width: 340px;
+    height: 310px;
+    background: url(images/instituto.svg) no-repeat center bottom;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    transform: translate(35%, 0);
+  }
+}
+section.sobre-instituto h2 {
+  color: #D4781E;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+section.sobre-instituto .subtitulo {
+  font-size: 20px;
+}
+section.sobre-instituto .links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  section.sobre-instituto .links {
+    justify-content: flex-start;
+  }
+}
+section.sobre-instituto .links .btn {
+  background-color: #B71F27;
+  color: #ffffff;
+  border-radius: 30px;
+  font-weight: 500;
+  text-transform: uppercase;
+  min-width: 280px;
+  cursor: default;
+}
+
+section.sobre-projeto {
+  background: #E9B633;
+  overflow: hidden;
+}
+section.sobre-projeto .container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+@media (min-width: 992px) {
+  section.sobre-projeto .container {
+    padding-left: 30%;
+    position: relative;
+  }
+  section.sobre-projeto .container::before {
+    content: "";
+    display: block;
+    width: 50%;
+    height: 100%;
+    background: url(images/menino-com-bola.webp) no-repeat right bottom;
+    background-size: auto 100%;
+    position: absolute;
+    right: 70%;
+    bottom: 0;
+  }
+  section.sobre-projeto .container::after {
+    content: "";
+    display: block;
+    width: 50%;
+    height: 100%;
+    max-height: 310px;
+    background: url(images/elemento.svg) no-repeat left center;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(100%, 20%);
+  }
+}
+section.sobre-projeto h2 {
+  background: #ffffff;
+  color: #B71F27;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.5em 1em 0.4em;
+  border-radius: 2em;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+section.sobre-projeto p {
+  color: #B71F27;
+  font-weight: 400;
+  font-size: 16px;
+}
+@media (min-width: 992px) {
+  section.sobre-projeto p {
+    padding-left: 1.5rem;
+  }
+}
+section.sobre-projeto .btn {
+  background: #0071BC;
+  color: #ffffff;
+  border-radius: 2rem;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 0.8em 3em;
+}
+
+section.beneficios {
+  text-align: center;
+  padding: 2rem 0;
+}
+section.beneficios h2 {
+  color: #FF9E1B;
+  background: #B71F27;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.5em 1em 0.4em;
+  border-radius: 2em;
+  text-align: center;
+  min-width: 300px;
+}
+section.beneficios p {
+  font-size: 20px;
+}
+section.beneficios .lista-beneficios {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1rem;
+}
+@media (min-width: 768px) {
+  section.beneficios .lista-beneficios {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1200px) {
+  section.beneficios .lista-beneficios {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 4rem;
+  }
+}
+section.beneficios .beneficio {
+  text-align: left;
+}
+section.beneficios .beneficio img {
+  display: block;
+}
+section.beneficios .beneficio h3 {
+  color: #D4781E;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 110%;
+  margin-bottom: 12px;
+  margin-top: 16px;
+}
+@media (min-width: 768px) {
+  section.beneficios .beneficio h3 {
+    min-height: 36px;
+  }
+}
+section.beneficios .beneficio p {
+  color: #797979;
+  font-size: 16px;
+  font-weight: 325;
+  line-height: 120%;
+}
+
+section.quem-pode-particpar {
+  background: #B71F27;
+  color: #ffffff;
+  padding-bottom: 2.5rem;
+}
+section.quem-pode-particpar::before {
+  content: "";
+  display: block;
+  height: 250px;
+  background: url(images/d546e032a49b50b9edc72344c9cade0b.webp) no-repeat center;
+  background-size: cover;
+}
+section.quem-pode-particpar h2 {
+  background: #ffffff;
+  color: #B71F27;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.5em 1em 0.4em;
+  border-radius: 2em;
+  text-align: center;
+  transform: translateY(-50%);
+}
+section.quem-pode-particpar ul {
+  margin-bottom: 3rem;
+  padding-left: 1.8rem;
+}
+section.quem-pode-particpar .btn {
+  background: #0071BC;
+  color: #ffffff;
+  border-radius: 2rem;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 0.3em 2em;
+  max-width: 100%;
+}
+
+section.como-vai-funcionar {
+  padding-top: 3rem;
+}
+section.como-vai-funcionar h2 {
+  color: #FF9E1B;
+  background: #B71F27;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.5em 1em 0.4em;
+  border-radius: 2em;
+  text-align: center;
+  min-width: 300px;
+  margin-bottom: 1rem;
+}
+section.como-vai-funcionar .etapas {
+  padding: 1.5rem 0 0 1.5rem;
+}
+@media (min-width: 768px) {
+  section.como-vai-funcionar .etapas {
+    padding: 2rem 0 0 3.5rem;
+  }
+}
+section.como-vai-funcionar p {
+  margin-bottom: 0;
+}
+section.como-vai-funcionar header {
+  border-left: dotted 2px #E9B633;
+  padding-left: 3rem;
+  padding-bottom: 1.5rem;
+  margin-top: 2px;
+  position: relative;
+}
+section.como-vai-funcionar header::after {
+  content: "";
+  display: block;
+  width: 47px;
+  height: 47px;
+  background: #E9B633;
+  position: absolute;
+  left: -25px;
+  top: -11px;
+  background: url(images/icone-inicial.svg) repeat-x center;
+  background-size: cover;
+}
+section.como-vai-funcionar header.avancado::after {
+  background: url(images/icone-avancado.svg) repeat-x center;
+  background-size: cover;
+}
+section.como-vai-funcionar header h3 {
+  color: #B71F27;
+  font-size: 20px;
+  font-weight: 700;
+}
+section.como-vai-funcionar header p {
+  margin: 0;
+}
+section.como-vai-funcionar .etapa {
+  border-left: dotted 2px #E9B633;
+  padding-left: 3rem;
+  padding-bottom: 1.5rem;
+  margin-top: 2px;
+  position: relative;
+}
+section.como-vai-funcionar .etapa.last {
+  border-left: dotted 2px transparent;
+  margin-top: 0;
+  padding-bottom: 0;
+}
+section.como-vai-funcionar .etapa::after {
+  content: "";
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: #E9B633;
+  border-radius: 100%;
+  position: absolute;
+  left: -7px;
+  top: 3px;
+}
+section.como-vai-funcionar .etapa.bonus {
+  color: #D4781E;
+}
+section.como-vai-funcionar .etapa.bonus::after {
+  content: "";
+  display: block;
+  width: 30px;
+  height: 30px;
+  background: #E9B633;
+  position: absolute;
+  left: -16px;
+  top: -7px;
+  background: url(images/icone-etapa.svg) repeat-x center;
+  background-size: cover;
+  border-radius: 0;
+}
+
+section.conteudo-programatico {
+  background: #D4781E;
+  padding: 3rem 0;
+  overflow: hidden;
+}
+section.conteudo-programatico .container {
+  position: relative;
+}
+@media (min-width: 768px) {
+  section.conteudo-programatico .container::before {
+    content: "";
+    display: block;
+    width: 200px;
+    height: 350px;
+    background: url(images/elemento2.svg) no-repeat right bottom;
+    background-size: auto 100%;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(-100%, -50%);
+  }
+  section.conteudo-programatico .container::after {
+    content: "";
+    display: block;
+    width: 250px;
+    height: 524px;
+    background: url(images/elemento2.svg) no-repeat left center;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(78%, -46%);
+  }
+}
+section.conteudo-programatico h2 {
+  color: #B71F27;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+section.conteudo-programatico .lista {
+  color: #ffffff;
+}
+@media (min-width: 768px) {
+  section.conteudo-programatico .lista {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+  }
+}
+section.conteudo-programatico .lista ul {
+  margin: 0;
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+
+section.cronograma {
+  padding: 3rem 0 2rem;
+}
+section.cronograma h2 {
+  color: #ffffff;
+  background: #B71F27;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.5em 1em 0.4em;
+  border-radius: 2em;
+  text-align: center;
+  min-width: 300px;
+}
+@media (min-width: 1200px) {
+  section.cronograma .container {
+    padding-left: 30%;
+    position: relative;
+  }
+  section.cronograma .container::after {
+    content: "";
+    display: block;
+    width: 330px;
+    height: 330px;
+    background: url(images/textura2.svg) no-repeat center;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(70%, -50%);
+  }
+  section.cronograma .container h2 {
+    position: absolute;
+    background: url(images/bg-cronograma.webp) no-repeat center;
+    background-size: contain;
+    color: #DA291C;
+    left: 0;
+    padding: 10rem 5rem 31rem 14rem;
+    z-index: 1;
+    font-size: 28px;
+    top: 0;
+    transform: translate(-28%, -8%);
+  }
+}
+
+#footer {
+  background: #D4781E;
+  min-height: 145px;
+  text-align: center;
+  padding: 1rem 0;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+@media (min-width: 1200px) {
+  #footer {
+    text-align: left;
+  }
+}
+#footer .container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+@media (min-width: 1200px) {
+  #footer .container {
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1140px;
+  }
+}
+#footer .realizacao {
+  align-items: center;
+  color: #B71F27;
+  display: inline-flex;
+  font-weight: 500;
+  background: #ffffff;
+  padding: 0.7rem 3rem;
+  border-radius: 4rem;
+}
+#footer .realizacao p {
+  margin: 0 1rem 0 0;
+}
+#footer .parceiros p {
+  margin-bottom: 0.5rem;
+}
+#footer .parceiros img {
+  display: inline-block;
+  margin: 0 0.5rem;
+}
+@media (min-width: 1200px) {
+  #footer .parceiros {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  #footer .parceiros p {
+    margin-bottom: 0;
+    margin-right: 1rem;
+  }
+}
+#footer .duvidas {
+  margin-bottom: 0;
+}/*# sourceMappingURL=style.css.map */

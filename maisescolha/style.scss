@@ -1,0 +1,357 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;900&family=Roboto:wght@300;500;700;900&display=swap');
+
+$amarelo: #f59c27;
+$cinza: #666;
+$laranja: #e05b19;
+$vermelho: #c32420;
+$vermelho2: #e3211f;
+
+
+@font-face {
+    font-family: 'PF Square Sans Pro Extra Black';
+    src: url('fonts/PFSquareSansPro-ExtraBlack.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-ExtraBlack.woff') format('woff'),
+      url('fonts/PFSquareSansPro-ExtraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro Bold';
+    src: url('fonts/PFSquareSansPro-Bold.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-Bold.woff') format('woff'),
+      url('fonts/PFSquareSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro Bold Italic';
+    src: url('fonts/PFSquareSansPro-BoldItalic.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-BoldItalic.woff') format('woff'),
+      url('fonts/PFSquareSansPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro Extra Extra Black Italic';
+    src: url('fonts/PFSquareSansPro-ExtraBlackItalic.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-ExtraBlackItalic.woff') format('woff'),
+      url('fonts/PFSquareSansPro-ExtraBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro Italic';
+    src: url('fonts/PFSquareSansPro-Italic.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-Italic.woff') format('woff'),
+      url('fonts/PFSquareSansPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro Light';
+    src: url('fonts/PFSquareSansPro-Light.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-Light.woff') format('woff'),
+      url('fonts/PFSquareSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro Light Italic';
+    src: url('fonts/PFSquareSansPro-LightItalic.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-LightItalic.woff') format('woff'),
+      url('fonts/PFSquareSansPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PF Square Sans Pro';
+    src: url('fonts/PFSquareSansPro-Regular.woff2') format('woff2'),
+      url('fonts/PFSquareSansPro-Regular.woff') format('woff'),
+      url('fonts/PFSquareSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+
+body{    
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    box-sizing: border-box;    
+}
+
+.container{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;    
+    padding: 50px 0;
+
+    @media(orientation:portrait){
+        padding: 7%;
+    }
+}
+
+img{
+    max-width: 100%;
+    align-self: center;
+}
+
+p{
+    color: $cinza;
+    font-size: 18px;
+}
+
+ul{
+    color: $cinza;
+    font-size: 18px;
+}
+
+.row{
+    display:flex;
+    
+    @media(orientation:portrait){
+        flex-direction: column;
+    }
+
+    .col-1,
+    .col-2{
+        width: 50%;
+
+        @media(orientation:portrait){
+            width: 100%;
+        }
+    }
+}
+
+
+header {
+    background: transparent url(img/bg-header.jpg);
+    padding: 20px 0;    
+  
+    @media (max-width: 767px) {
+      padding: 7%;
+    }
+  
+    .container {
+      display: flex;
+      justify-content: space-between;
+      padding: 0;
+    }
+  
+    a {
+      color: $vermelho;
+      text-decoration: none;
+    }
+  
+    h1 {
+      width: 118px;
+      height: 129px;
+      text-indent: -5000em;
+      margin: 0;
+      display: block;
+      background: transparent url(img/logo.jpg) center no-repeat;
+      background-size: contain;
+    }
+  
+    nav {
+      @media (max-width: 767px) {
+        display: none;
+      }
+  
+      ul {
+        display: flex;
+        padding: 0;
+        display: flex;
+        margin: 0 0 0 50px;
+        height: 100%;
+        align-items: center;
+  
+        li {
+          list-style-type: none;
+          font-size: 21px;
+          padding: 0 20px 0 0;
+          font-family: 'PF Square Sans Pro Bold';
+          //font-family: 'Roboto', sans-serif;
+          text-transform: uppercase;
+          text-align: center;
+        }
+      }
+    }
+  
+    span.assai {
+      a {
+        display: inline-block;
+        width: 105px;
+        height: 71px;
+        text-indent: -5000em;
+        margin-top: 30px;
+        background: transparent url(img/assai.png) center no-repeat;
+      }
+    }
+  }
+
+
+
+.header{
+    background: $amarelo url(img/header.jpg) center no-repeat;
+    background-size: cover;
+
+    .container{
+        display: flex;
+        justify-content: space-between;
+
+        @media(orientation:portrait){
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+
+    img.consulta{
+        max-width: 250px;
+        margin: 30px 0 10px 0;
+    }
+}
+
+.banner{
+    img{
+        display: block;
+    }
+}
+
+#projeto{
+    background: transparent url(img/bg-amarelo.png) top left no-repeat;
+    .col-2{
+        padding-left: 5%;
+
+        p{
+            font-weight: 300;
+
+            strong{
+                font-weight: 700;
+                color: $laranja;
+            }
+        }
+    }
+}
+
+#cartao{
+    background: transparent url(img/banner-2.jpg) top center no-repeat;
+    background-size: cover;    
+
+    @media(orientation:landscape){
+        padding: 50px 0 0 0;
+    }
+
+    @media(orientation:portrait){
+        background: #f6e0ac;
+    }
+
+    .container{
+        @media(orientation:landscape){
+            padding: 0;
+        }
+    }
+
+    .col-2{
+        @media(orientation:landscape){
+            padding-left: 10%;
+        }
+
+
+        h3{
+            color: $laranja;
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        ul{
+            margin: 25px 0 0 0;
+            padding: 0 30px 0 20px;
+
+            li{
+              margin-bottom: 25px;              
+            }
+        }
+    }
+
+    .row.btn{
+        text-align: center;        
+        width: 100%;
+        display: block;
+        padding: 10px 0;
+
+        img{
+            display: inline-block;
+        }
+    }
+}
+
+#promover{
+    background: $amarelo;
+    padding-bottom: 50px;
+
+    .container{
+        @media(orientation:landscape){
+            padding: 0;
+        }
+    }
+
+    p{
+        color: #fff;
+        font-weight: 300;
+
+        strong{
+            font-weight: 700;
+        }
+    }
+
+    .col-2{        
+        @media(orientation:landscape){
+            padding-left: 5%;
+        }
+        img{
+            margin: 50px 0;
+        }
+    }
+}
+
+footer{
+    text-align: center;
+    img{
+        display: inline-block;
+    }
+}
+
+.extra-footer{
+    background: $laranja;
+    text-align: center;
+    padding: 0;
+
+    .container{
+        padding: 20px;        
+    }
+    p{
+        color: #fff;
+        margin: 0;
+        font-size: 14px;
+    }
+}

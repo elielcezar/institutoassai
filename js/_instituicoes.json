@@ -1,0 +1,2552 @@
+[
+ {
+  "LOJA": "Vila Carrão",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rua Manilha, n.º 42 - Vila Carrão CEP.: 03.445-050 ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Casa Verde ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Engenheiro Caetano Alvares, n.º 1927 - Casa Verde  CEP.: 02546-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "São Miguel   ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Marechal Tito, nº1300 - São Miguel Paulista - CEP.: 08010-090",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Santos   ",
+  "CIDADE": "Santos ",
+  "UF": "SP",
+  "ENDERECO": "Av. Nossa Senhora de Fátima, n.º 50 - Saboo - CEP.: 11085-200",
+  "INSTITUICAO": "ROTARY (PROJETO CRERES)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Vila Sônia   ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Professor Francisco Morato, n.º 4367 - Vila Sônia  - CEP.: 05521-200",
+  "INSTITUICAO": "Associação de Apoio à Criança e Adolescente com Câncer Anjo de Luz",
+  "CNPJ": "06.947.708/0001-30",
+  "CONTATO": "(11) 981854915 - Luiza  (11) 945784133 - Leide ",
+  "EMAIL": "anjode.luz@live.com"
+ },
+ {
+  "LOJA": "Osasco ",
+  "CIDADE": "Osasco ",
+  "UF": "SP",
+  "ENDERECO": "Avenida dos Autonomistas, 1.687 - Vila Yara  -  CEP.: 06020-015",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "(11) 945784133 - Leide ",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "São Bernardo ",
+  "CIDADE": "São Bernardo do Campo",
+  "UF": "SP",
+  "ENDERECO": "Av. Piraporinha, n.º 680 - Planalto  -  CEP.: 09891-001",
+  "INSTITUICAO": "ASSOCIAÇÃO BENEFICIENTE UNIÃO DAS CASAS DE JESUS",
+  "CNPJ": "47.846.565/0001-58",
+  "CONTATO": "SILVIA CARDOSO - PRESIDENTE  ROSANA LANGGOUTH - SECRETARIA     FONE:   12 9797-9400 ",
+  "EMAIL": "ucjong@gmail.com"
+ },
+ {
+  "LOJA": "Guarulhos Dutra ",
+  "CIDADE": "Guarulhos",
+  "UF": "SP",
+  "ENDERECO": "Av. Aniello Pratici, nº 494 - Jd Sta Francisca  - CEP.: 07013-000",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Jundiaí ",
+  "CIDADE": "Jundiaí ",
+  "UF": "SP",
+  "ENDERECO": "Rua Quinze de Novembro, 430 - Centro  - CEP.: 13201-005",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Sorocaba ",
+  "CIDADE": "Sorocaba",
+  "UF": "SP",
+  "ENDERECO": "Rodovia Raposo Tavares Km 99 - Vila Artura  - CEP.: 18023-000",
+  "INSTITUICAO": "CENTRO ESPIRITA CASA DOS ESSENIOS",
+  "CNPJ": "39.376.895/0001-07",
+  "CONTATO": "Fernando Filippelli - cel (11) 94441 1959",
+  "EMAIL": "fernando.filippelli@casadosessenios.com.br"
+ },
+ {
+  "LOJA": "Ribeirão Preto ",
+  "CIDADE": "Ribeirão Preto",
+  "UF": "SP",
+  "ENDERECO": "Av. Presidente Castelo Branco, 2395 - Parque Industrial Lagoinha  -CEP.: 14095-000",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Cotia ",
+  "CIDADE": "Cotia ",
+  "UF": "SP",
+  "ENDERECO": "Estrada do Embu , 162 - Jardim Torino  -  CEP.: 067713-100",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Santo André ",
+  "CIDADE": "Santo André",
+  "UF": "SP",
+  "ENDERECO": "Av. Visconde de Taunay, 216 – Centro  -  CEP.: 09210-570",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Sapopemba ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Sapopemba, 9250 -  Jd. Planalto  CEP.: 03988-000",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "João Dias ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Guido Caloi, 25 - Jd. São Luis  - CEP.: 05802-140 ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Itaquera ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Sylvio Torres, 190 - Conj. Habitacional Padre José de Anchieta - CEP.: 03589-010",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Jaçanã ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Luis Stamatis, 35 - Vila Constança  -  CEP.: 02260-000",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Limeira ",
+  "CIDADE": "Limeira ",
+  "UF": "SP",
+  "ENDERECO": "Largo José Bonifácio, 149, Centro - CEP.: 13480-158",
+  "INSTITUICAO": "Associação Beneficente De Amparo Do Idoso \"Cantinho Do Vovô\"",
+  "CNPJ": "03.273.888/0001-24",
+  "CONTATO": "19983143690 Raquel",
+  "EMAIL": "cantinhodovovo@gmail.com"
+ },
+ {
+  "LOJA": "Jaguaré",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Jaguaré, 925 - Jaguaré - CEP.: 05346-000 ",
+  "INSTITUICAO": "ASSOCIACAO ALIANCA DE MISERICORDIA ",
+  "CNPJ": "04.186.468/0001-73",
+  "CONTATO": "99877-5483 Cláudia",
+  "EMAIL": "claudia.lima@aliancasocial.org"
+ },
+ {
+  "LOJA": "Fortaleza ",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Av. Bezerra de Menezes, 571 - Farias Brito - CEP.: 60325-003",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Rio Claro ",
+  "CIDADE": "Rio Claro ",
+  "UF": "SP",
+  "ENDERECO": "Av.Tancredo Neves , 450 - Jardim Clarete - CEP.: 13503-183",
+  "INSTITUICAO": "Lar Bethel Abrigo Da Velhice Desamparada",
+  "CNPJ": "56.402.316/0001-64",
+  "CONTATO": "(19) 997354164 Rosalina",
+  "EMAIL": "larbethel.g@hotmail.com"
+ },
+ {
+  "LOJA": "Caraguatatuba ",
+  "CIDADE": "Caraguatatuba ",
+  "UF": "SP",
+  "ENDERECO": "Av. Prisciliana de Castilho, 840 - Caputera - CEP.: 11660-971",
+  "INSTITUICAO": "ROTARY (COMUNIDADE CATÓLICA DIVINA  PROVIDÊNCIA)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Washington Soares ",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Av. Washington Soares, 5657 - Edson Queiroz - CEP.: 60830-641 ",
+  "INSTITUICAO": "ASSOCIACAO DOS MISSIONARIOS DA SOLIDARIEDADE",
+  "CNPJ": "11.368.624/0001-82",
+  "CONTATO": "(85) 997750092  (85) 32263447  Irmã Conceição ",
+  "EMAIL": "amsolidariedade@hotmail.com"
+ },
+ {
+  "LOJA": "Jacarepaguá ",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "ETR DE JACAREPAGUA, 07753, LOJA FREGUESIA - JACAREPAGUA - CEP.: 22753-034 ",
+  "INSTITUICAO": "ROTARY (REMAR BRASIL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Ilha do Governador ",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Avenida Maestro Paulo Silva, 100, Lote 1 - PAL 33068, Jardim Carioca -  CEP.: 21920-445 ",
+  "INSTITUICAO": "CENTRO COMUNITARIO DE BOITUVA + Ong Dedo de Deus",
+  "CNPJ": "24.637.821/0001-00",
+  "CONTATO": "15 98172-1522 Adriana Alessandra 21 99701-4779",
+  "EMAIL": "semeadura.org@gmail.com "
+ },
+ {
+  "LOJA": "Nova Iguaçú ",
+  "CIDADE": "Nova Iguaçu ",
+  "UF": "RJ",
+  "ENDERECO": "Avenida Marechal Floriano Peixoto, 1448, Parte III, Centro - CEP.: 26220-060 ",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Jabaquara",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rua Taquaruçu, 79 - Jabaquara - CEP.: 04346-040",
+  "INSTITUICAO": "ROTARY (REMAR BRASIL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Nordestina",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Nordestina, n.º 3.077 - São Miguel Paulista - CEP.: 08032-000",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Caucaia",
+  "CIDADE": "Caucaia ",
+  "UF": "CE",
+  "ENDERECO": "Rodovia BR 222, 6970 - Parque Tabapua - CEP.:  61616-000",
+  "INSTITUICAO": "ROTARY (LAR AMIGOS DE JESUS)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Alcântara",
+  "CIDADE": "São Gonçalo ",
+  "UF": "RJ",
+  "ENDERECO": "Rua Doutor Alfredo Backer, 605, Alcântara  - CEP.: 24452-001",
+  "INSTITUICAO": "Assembléia de Deus Ministério Filadélfia",
+  "CNPJ": "04.149.694/0001-84",
+  "CONTATO": "21 98471-9763 21 98015-0233",
+  "EMAIL": "secretaria@admf.com.br zecaquintanilha@gmail.com"
+ },
+ {
+  "LOJA": "Nilópolis",
+  "CIDADE": "Nilópolis ",
+  "UF": "RJ",
+  "ENDERECO": "AVENIDA GETULIO DE MOURA, 1983, CENTRO - CEP.: 26525-002",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Campinho",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Rua Domingos Lopes, 195, Madureira - CEP.: 21310-120",
+  "INSTITUICAO": "PROGRAMA DE EDUCACAO E QUALIDADE DE VIDA - EDUQUEVIDA",
+  "CNPJ": "03.400.599/0001-49",
+  "CONTATO": "(21)995293884 (21)964789723",
+  "EMAIL": "contato@eduqvida.org"
+ },
+ {
+  "LOJA": "Praia Grande",
+  "CIDADE": "Praia Grande ",
+  "UF": "SP",
+  "ENDERECO": "Av. Presidente Kennedy, 9271 -PARTE 1  - MIRIM - CEP.: 11705-000",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Amoreiras",
+  "CIDADE": "Campinas ",
+  "UF": "SP",
+  "ENDERECO": "Av. Ruy Rodrigues, 1400 - Amoreiras - CEP.: 13060-192",
+  "INSTITUICAO": "ROTARY (PROJETO SOCIAL CRIANÇA AMOR ÁGAPE)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Niterói",
+  "CIDADE": "Niterói ",
+  "UF": "RJ",
+  "ENDERECO": "RUA BENJAMIN CONSTANT, 263, BARRETO - CEP.: 24110-002",
+  "INSTITUICAO": "Igreja Assembleia de Deus Profetizando Vitória",
+  "CNPJ": "08.518.965/0001-82",
+  "CONTATO": "Alexandre P. Loureiro (21 96943-3864) e Andréia Vicente (21 99495 -6080)",
+  "EMAIL": "andreiavicentesilva5@gmail.com"
+ },
+ {
+  "LOJA": "Ceasa",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "AVN BRASIL 19201 COELHO NETO CEP.: 21012-351",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Jaboatão",
+  "CIDADE": "Jaboatão dos Guararapes",
+  "UF": "PE",
+  "ENDERECO": "Av. Barreto de Menezes, 434, Piedade - CEP.: 64310-310 ",
+  "INSTITUICAO": "MESA BRASIL PE",
+  "CNPJ": "03.482.931/0021-05",
+  "CONTATO": "(81) 99965-0270 Isolda,  (81) 99978-4278 Amanda, (81) 99637-9217 Gabriel  ",
+  "EMAIL": "isolda@sescpe.com.br"
+ },
+ {
+  "LOJA": "Barra Funda",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Marques de São Vicente, 1340/1354 - Barra Funda - CEP.: 01139-002",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Caruaru",
+  "CIDADE": "Caruaru ",
+  "UF": "PE",
+  "ENDERECO": "Rua Capitão João Velho, 09 - Nossa Senhora das Dores - CEP.: 55002-400",
+  "INSTITUICAO": "Instituto Do Cancer Infantil Do Agreste - Icia",
+  "CNPJ": "06.061.422/0001-53",
+  "CONTATO": "(81)985115974",
+  "EMAIL": "mariely@icia.org.br"
+ },
+ {
+  "LOJA": "Parangaba",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Av. Godofredo Maciel, 86, Parangaba - CEP.: 77021-623 ",
+  "INSTITUICAO": "Associação de Capelania Cristã Voluntária de Pacajus",
+  "CNPJ": "15.021.713/0001-09",
+  "CONTATO": "85 99982-7220  Lazaro ",
+  "EMAIL": "lazaroleme@hotmail.com"
+ },
+ {
+  "LOJA": "São Caetano do Sul",
+  "CIDADE": "São Caetano do Sul",
+  "UF": "SP",
+  "ENDERECO": "Rua Senador Vergueiro, 428 - 498 Loja 1, Centro, São Caetano do Sul - SP 09521-320",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Águia de Haia",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Águia de Haia, 2636, Loja 1, Parque Paineiras - CEP.: 03694-000",
+  "INSTITUICAO": "ABSW - Associação Brasileira da Síndrome de Williams",
+  "CNPJ": "05.143.689/0001-27",
+  "CONTATO": "11 97605-4852 Cris",
+  "EMAIL": "cristd_daniel@hotmail.com"
+ },
+ {
+  "LOJA": "Sorocaba (Itavuvu)",
+  "CIDADE": "Sorocaba",
+  "UF": "SP",
+  "ENDERECO": "Av. Itavuvu, 1766, Jd. Maria Antonia Prado - CEP.: 18076-005",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Brasília Sul",
+  "CIDADE": "Brasilia ",
+  "UF": "DF",
+  "ENDERECO": "Sia SUL, S/Nº, Trecho 12, Lote 105, Loja 1, Sai, Zona Industrial - CEP.: 71200-110",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Ceilândia",
+  "CIDADE": "Ceilândia",
+  "UF": "DF",
+  "ENDERECO": "QNM 11, LOTE 06, MEZANINO, LOJAS 1 A 10, PARTE 1 - CEP.: 72215-110",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Penha - Marginal Tietê",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Condessa Elisabeth de Robiano, 5500, Bloco A, Jardim America da Penha - CEP.: 03704-900",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Bangu",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "RUA FRANCISCO REAL, 2050, BANGU- CEP.: 21810-042",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Goiânia Buriti",
+  "CIDADE": "Goiania",
+  "UF": "GO",
+  "ENDERECO": "Av. Padre Orlando Morais, 2127 - QUADRAAREA LOTE A  - Parque Amazonas - CEP.: 74843-20",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Coxipó",
+  "CIDADE": "Cuiabá",
+  "UF": "MT",
+  "ENDERECO": "Av. Fernando Correa da Costa, 4875- Coxipó - CEP: 78080-300",
+  "INSTITUICAO": "AMPARA",
+  "CNPJ": "10.718.071/0001-88",
+  "CONTATO": "(65) 3645-8223/98126-4115 DAISY 65 99600-7709",
+  "EMAIL": "amparacba@gmail.com"
+ },
+ {
+  "LOJA": "Ribeirão Pires",
+  "CIDADE": "Ribeirão Pires ",
+  "UF": "SP",
+  "ENDERECO": "Av. Francisco Monteiro, 1941- Vila Maria-  CEP.: 09400-310",
+  "INSTITUICAO": "ROTARY (INSTITUTO FAMILIAR)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Praia Grande Litoral Plaza",
+  "CIDADE": "Praia Grande ",
+  "UF": "SP",
+  "ENDERECO": "Av. Ayrton Senna da Silva, 1511, Parte ii, Tude Bastos  CEP.: 11726-000",
+  "INSTITUICAO": "ROTARY (PROJETO FACES)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Guaianases",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Estrada Dom João Nery, 4.031 - Jardim Bartira  - CEP.: 08151-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Bauru",
+  "CIDADE": "Bauru ",
+  "UF": "SP",
+  "ENDERECO": "R GENERAL MARCONDES SALGADO QUADRA 8-55, ESQUINA COM AVENIDA DAS NACOES UNIDAS PARTE 1 - Centro - CEP.: 17010-040",
+  "INSTITUICAO": "CENTRO ESPÍRITA IRMÃ CATARINA",
+  "CNPJ": "45.030.129/0001-80",
+  "CONTATO": "ATAIR (14) 98233-9993",
+  "EMAIL": "ceicbauru@gmail.com"
+ },
+ {
+  "LOJA": "Juazeiro do Norte",
+  "CIDADE": "Juazeiro do Norte",
+  "UF": "CE",
+  "ENDERECO": "Avenida Padre Cicero, 4400 - São José - CEP: 63.024-015",
+  "INSTITUICAO": "Instituto IACC Cariri",
+  "CNPJ": "11.661.358/0001 81",
+  "CONTATO": "(088) 99746.4949",
+  "EMAIL": " iacc1@hotmail.com"
+ },
+ {
+  "LOJA": "Ribeirão Preto Rotatória",
+  "CIDADE": "Ribeirão Preto",
+  "UF": "SP",
+  "ENDERECO": "Av. Treze de Maio, 92/94/96, Jardim Paulista -CEP.: 14090-260",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Mendanha ",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Estrada da Mendanha, 3457- Campo Grande - CEP: 23092- 001",
+  "INSTITUICAO": "Igreja Videira Santissimo",
+  "CNPJ": "31.908.895/0001-90",
+  "CONTATO": "Aluisio Freitas - 21 986321300  Simone - 21 986641974",
+  "EMAIL": "aluisiofreitasdeoliveira@gmail.com"
+ },
+ {
+  "LOJA": "Juazeiro da Bahia ",
+  "CIDADE": "Juazeiro ",
+  "UF": "BA",
+  "ENDERECO": "AV SAO JOAO, 1947, JARDIM VITORIA - CEP: 48.900-441",
+  "INSTITUICAO": "Associação de Mães e Amigos - Amab",
+  "CNPJ": "08.008.324/0001-88",
+  "CONTATO": " 74 9 8818 3186 Rita",
+  "EMAIL": "ritadiniz2020@gmail.com"
+ },
+ {
+  "LOJA": "Feira de Santana ",
+  "CIDADE": "Feira de Santana ",
+  "UF": "BA",
+  "ENDERECO": "Av. Eduardo Froes da Mota S/N Bairro Sobradinho  - CEP: 44.021-215",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Suzano",
+  "CIDADE": "Suzano ",
+  "UF": "SP",
+  "ENDERECO": "Rua Prudente de Moraes S/N - Centro - CEP: 08.674-015 ",
+  "INSTITUICAO": "ROTARY (IGREJA ADVENTISTA JARDIM SÂO PEDRO)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Cristo Rei",
+  "CIDADE": "Várzea Grande",
+  "UF": "MT",
+  "ENDERECO": "Avenida Dom Orlando Chaves S/N- Cristo Rei - CEP: 78.118-000",
+  "INSTITUICAO": "ASSOCIACAO MATOGROSSENSE DE COMBATE AO CANCER",
+  "CNPJ": "24.672.792/0001-09",
+  "CONTATO": "(65) 99811-2718 (65) 3648-7552 Leonardo",
+  "EMAIL": "projetos@hcancer.com.br"
+ },
+ {
+  "LOJA": "Londrina ",
+  "CIDADE": "Londrina ",
+  "UF": "PR",
+  "ENDERECO": "Avenida Tiradentes 4650 Quadra 104- Lote 104-1- JARDIM ROSICLER  - CEP: 86.072-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Presidente Prudente",
+  "CIDADE": "Presidente Prudente ",
+  "UF": "SP",
+  "ENDERECO": "Av. Joaquim Constantino, 3025, Vila Nova Prudente, Presidente Prudente - CEP.: 19053-300",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Giovanni  Pirelli",
+  "CIDADE": "Santo André",
+  "UF": "SP",
+  "ENDERECO": "Rua Giovanni Battista Pirelli, 1221  - Parte 1 - Vila Homero Thon-  CEP.: 09111-340",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Itaquaquecetuba",
+  "CIDADE": "Itaquaquecetuba",
+  "UF": "SP",
+  "ENDERECO": "Est São Paulo-Mogi 3810 - Parte 1 - Vila Monte Belo -  CEP.: 08.577-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Menino Marcelo",
+  "CIDADE": "Maceió",
+  "UF": "AL",
+  "ENDERECO": "Av. Menino Marcelo S/N , PARTI 1  -Serraria CEP: 57.046-000",
+  "INSTITUICAO": "Instituto Amigos da Sopa de Alagoas Maceió  (IASAL)",
+  "CNPJ": "25.243.955/0001-09",
+  "CONTATO": "Bianca Ferreira   82 - 99631-0222 (82) 3432-4959",
+  "EMAIL": "contato@institutoamigosdasopa.org.br"
+ },
+ {
+  "LOJA": "João Pessoa",
+  "CIDADE": "João Pessoa",
+  "UF": "PB",
+  "ENDERECO": "Rua Motorista Aldovandro Amâncio Pereira, nº 51, Parte 1, Pres. Ernesto Geisel - CEP: 58053-000",
+  "INSTITUICAO": "ASPAN",
+  "CNPJ": "08.558.819/0001-80",
+  "CONTATO": "83 99827-6828",
+  "EMAIL": "aspanfinancas@gmail.com aspanassociacao@yahoo.com.br"
+ },
+ {
+  "LOJA": "Cidade Baixa",
+  "CIDADE": "Salvador ",
+  "UF": "BA",
+  "ENDERECO": "Rua Luiz Regis Pacheco, 2 - Uruguai - CEP: 40451-360",
+  "INSTITUICAO": "MISSÃO BATISTA DO PELOURINHO",
+  "CNPJ": "04.637.737/0001-70",
+  "CONTATO": "71 32471079 \\ 71 999841887 Josué",
+  "EMAIL": "missaobatistapelourinho@gmail.com"
+ },
+ {
+  "LOJA": "Maringá",
+  "CIDADE": "Maringá ",
+  "UF": "PR",
+  "ENDERECO": "Rua Rubens Sebastião Marin 1820- Parque Industrial-  Paraná-  CEP: 87.045-020",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Cel. Antonino ",
+  "CIDADE": "Campo Grande",
+  "UF": "MS",
+  "ENDERECO": "Av. Consul Assaf Trad, S/N. PARTE 1 - Mata do Jacinto - CEP: 79.033-005",
+  "INSTITUICAO": "COTOLENGO SUL-MATOGROSSENSE",
+  "CNPJ": "01.367.712/0001-06",
+  "CONTATO": "PADRE VALDECI MARCOLINO  (67) 9 9626 6650 Joyce 67992797707",
+  "EMAIL": "valdecii@hotmail.com cotolengoms@gmail.com"
+ },
+ {
+  "LOJA": "Mogi das Cruzes",
+  "CIDADE": "Mogi das Cruzes ",
+  "UF": "SP",
+  "ENDERECO": "Av. Jose Meloni, 998- Vila Mogilar - CEP: 08773-120",
+  "INSTITUICAO": "ROTARY (IGREJA ADVENTISTA DA VILA NATAL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Cabo Frio",
+  "CIDADE": "Cabo Frio ",
+  "UF": "RJ",
+  "ENDERECO": "Avenida America Central, 900 - São Cristovao -  CEP: 28.909-582",
+  "INSTITUICAO": "ROTARY (REMAR BRASIL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Campina Grande",
+  "CIDADE": "Campina Grande",
+  "UF": "PB",
+  "ENDERECO": "Av Jornalista Assis Chateaubriand 1110  - PARTE 1 - Liberdade - CEP: 58414-060",
+  "INSTITUICAO": "Instituição Vaso Novo",
+  "CNPJ": "30.319.666/0001-78",
+  "CONTATO": "Erilma (83) 99673.6417",
+  "EMAIL": "vasonovoong@gmail.com "
+ },
+ {
+  "LOJA": "Goiania Independência",
+  "CIDADE": "Goiania",
+  "UF": "GO",
+  "ENDERECO": "Av Independência, S/N QUADRA139 LOTE AREA 01 DESM. AREA 139  - Setor Central - CEP:74055-055",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Teotonio Vilela",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Senador Teotonio Vilela, 8.699 GL 10- Jardim Casa Grande - CEP: 04858-001",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Guarulhos Jamil",
+  "CIDADE": "Guarulhos",
+  "UF": "SP",
+  "ENDERECO": "Rua Jamil João Zarif, 689 - Jardim Santa Vicencia - CEP.: 07.143-000",
+  "INSTITUICAO": "ROTARY (REMAR BRASIL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Vitoria da Conquista ",
+  "CIDADE": "Vitória da Conquista ",
+  "UF": "BA",
+  "ENDERECO": "Avenida Anel de Contorno  S/N - Gleba 08 - Felicia - CEP: 45055-686",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Sobral",
+  "CIDADE": "Sobral ",
+  "UF": "CE",
+  "ENDERECO": "Rod BR 222 N° 3638 - Cidade Gerardo Cristino de Men - CEP: 62051-402",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Fernão Dias",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rodovia Fernão Dias S/N - PARTE 1 - Parque Edu Chaves - CEP: 02.283.000  ",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Paripe",
+  "CIDADE": "Salvador ",
+  "UF": "BA",
+  "ENDERECO": "Av. Afrânio Peixoto, S/N - Paripe  - CEP: 40.800-570",
+  "INSTITUICAO": "Instituição justiça de paz",
+  "CNPJ": "15.553.071/0001-99",
+  "CONTATO": "71-99639-7512 Luy Lima",
+  "EMAIL": "justicadepaz72@gmail.com"
+ },
+ {
+  "LOJA": "Garanhuns",
+  "CIDADE": "Garanhuns ",
+  "UF": "PE",
+  "ENDERECO": "Av. Prefeito Luiz Souto Dourado, 1102 - Severiano Moraes Filho - CEP: 55.297-320",
+  "INSTITUICAO": "ROTARY (FAZENDA DA ESPERANÇA, DESAFIO JOVEM E CRECHE CESAR)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Acrissul",
+  "CIDADE": "Campo Grande",
+  "UF": "MS",
+  "ENDERECO": "AV FABIO ZAHRAN 7.919 - JARDIM AMERICA  -  CEP: 79.080-761   ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Pirajussara",
+  "CIDADE": "Taboão da Serra ",
+  "UF": "SP",
+  "ENDERECO": "Av. Ibirama n°51 Parque Industrial Daci - CEP: 06.785-300",
+  "INSTITUICAO": "Associação Movimento de Mulheres do Jardim Comercial",
+  "CNPJ": "59.289.546/0001-57",
+  "CONTATO": "Mirtes 1198363-0221",
+  "EMAIL": "Mirtes Souza <mirsouza@yahoo.com.br>"
+ },
+ {
+  "LOJA": "Vila Luzita ",
+  "CIDADE": "Santo André",
+  "UF": "SP",
+  "ENDERECO": "Av Capitão Mario Toledo de Camargo - 5855 - Vila Luzita -  CEP: 09.171-005",
+  "INSTITUICAO": "ROTARY (CASA SANTO ANTONIO)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Jequié",
+  "CIDADE": "Jequié ",
+  "UF": "BA",
+  "ENDERECO": "Av. Cesar Borges SN - São Judas Tadeu - CEP: 45.200-970 ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Carapicuiba",
+  "CIDADE": "Carapicuiba ",
+  "UF": "SP",
+  "ENDERECO": "Av Desembargador Doutor Eduardo Cunha de Abreu 1455, Vila Municipal - CEP: 06.328-330",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Campo Grande Aeroporto",
+  "CIDADE": "Campo Grande",
+  "UF": "MS",
+  "ENDERECO": "Avenida Duque de Caxias, 3200  - Santo Antonio - CEP: 79.101-000",
+  "INSTITUICAO": "AACC - ASSOCIACAO DE AMIGOS DA CRIANCA COM CANCER DE MATO GROSSO",
+  "CNPJ": "03.186.621/0001-08",
+  "CONTATO": "(67) 99603-1640 Auxiliadora (67) 99974-1847",
+  "EMAIL": "ribasfreire@hotmail.com"
+ },
+ {
+  "LOJA": "Curitiba",
+  "CIDADE": "Curitiba",
+  "UF": "PR",
+  "ENDERECO": "Rod BR - 116 Nº 18.580 - Pinheirinho - CEP: 81.690-400",
+  "INSTITUICAO": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS EM CURITIBA",
+  "CNPJ": "75.034.645/0001-44",
+  "CONTATO": "Pr. Izaias Honorato Felicio  41 - 98401-2503  Cp. José Luís Jurkewicz  41 - 99689-8666",
+  "EMAIL": "marcialilianed@hotmail.com"
+ },
+ {
+  "LOJA": "Dourados ",
+  "CIDADE": "Dourados",
+  "UF": "MS",
+  "ENDERECO": "Rua Coronel Ponciano de Mattos Pereira, 785  - Conjunto Habitacional Terra Roxa - CEP: 79.840-505",
+  "INSTITUICAO": "ROTARY",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Taguatinga",
+  "CIDADE": "Brasilia ",
+  "UF": "DF",
+  "ENDERECO": "QS -9 - Rua 100 Lote 04 - s/n - Areal Aguas Claras - CEP: 71976-300",
+  "INSTITUICAO": "Instituto Sócio Cultural Do Bem",
+  "CNPJ": "05.772.349/0001-65",
+  "CONTATO": "(61) 3041-2970 (61) 98419-3150",
+  "EMAIL": "isabemdf@gmail.com"
+ },
+ {
+  "LOJA": "Rondonópolis",
+  "CIDADE": "Rondonópolis",
+  "UF": "MT",
+  "ENDERECO": "Av. Presidente Medici, 4269 Lote 4A, 4B e 4D - Vila Birigui - CEP: 78.705-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Praia Grande II",
+  "CIDADE": "Praia Grande ",
+  "UF": "SP",
+  "ENDERECO": "Av. Ministro Marcos Freire 1600, QUADRA 04 LOTE 06 - Gloria -CEP.: 11724-205",
+  "INSTITUICAO": "ROTARY (ONG UMA NOVA VISÃO)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Goiânia T9",
+  "CIDADE": "Goiania",
+  "UF": "GO",
+  "ENDERECO": "Av Milão s/n Quadra 50/51 Lote 1 e Lote 1/15 e 1/19 -   Jardim Europa - CEP: 74325-030",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Paulo Afonso",
+  "CIDADE": "Paulo Afonso ",
+  "UF": "BA",
+  "ENDERECO": "Avenida do Aeroporto, 13 - Jardim Bahia - CEP: 48.604-005",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Imbiribeira",
+  "CIDADE": "Recife ",
+  "UF": "PE",
+  "ENDERECO": "Av. Marechal Mascarenhas de Moraes, 2056  - Imbiribeira -  CEP: 51.180-001",
+  "INSTITUICAO": "MESA BRASIL PE",
+  "CNPJ": "03.482.931/0021-05",
+  "CONTATO": "(81) 99965-0270 Isolda,  (81) 99978-4278 Amanda, (81) 99637-9217 Gabriel  ",
+  "EMAIL": "isolda@sescpe.com.br"
+ },
+ {
+  "LOJA": "Contagem",
+  "CIDADE": "Contagem",
+  "UF": "MG",
+  "ENDERECO": "AV JOAO CESAR DE OLIVEIRA 4321 QUADRA20 LOTE B2, NOVO ELDORADO - CEP: 32.341-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Paulista ",
+  "CIDADE": "Paulista",
+  "UF": "PE",
+  "ENDERECO": "Rod BR 101, 5800 - n° 58 Arthur Lundgren- CEP: 53.416-710",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Rio Verde",
+  "CIDADE": "Rio Verde",
+  "UF": "GO",
+  "ENDERECO": "R MARGINAL - S/N- LOTE A E B  - PERIMETRO URBANO - CEP: 75.906-717",
+  "INSTITUICAO": "COMUNIDADE TERAPÊUTICA RENASCER",
+  "CNPJ": "19074526/0001-44",
+  "CONTATO": "64 9 9268-8730 / 64 999606815",
+  "EMAIL": "ctrenascerrv@gmail.com"
+ },
+ {
+  "LOJA": "Taboão da Serra ",
+  "CIDADE": "Taboão da Serra ",
+  "UF": "SP",
+  "ENDERECO": "Rod Regis Bittencourt 3.040 - Centro - CEP: 06.768-000  ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Natal",
+  "CIDADE": "Natal ",
+  "UF": "RN",
+  "ENDERECO": "Av. Dão Silveira, s/n - PARTE 1  - CANDELARIA  - CEP: 59066-180",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Aracaju",
+  "CIDADE": "Aracaju ",
+  "UF": "SE",
+  "ENDERECO": "RUA SIMEÃO AGUIAR, N° 430 - JOSÉ CONRADO DE ARAÚJO - CEP: 49.085-410",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Valparaíso",
+  "CIDADE": "Valparaíso de Goiás",
+  "UF": "GO",
+  "ENDERECO": "R da BR-040 (quadras 01 e 02), s/n. - Parque Rio Branco - CEP: 72870-001",
+  "INSTITUICAO": "Grêmio Desportivo Valparaíso",
+  "CNPJ": "03.509.407/0001-37",
+  "CONTATO": "(61)985121490 Mateus (61) 98223-1171 (61) 3629-0284",
+  "EMAIL": "drmararocha@gmail.com"
+ },
+ {
+  "LOJA": "Belém",
+  "CIDADE": "Belém",
+  "UF": "PA",
+  "ENDERECO": "Rod Mario Covas, 69 - Coqueiro  - CEP: 66650-000",
+  "INSTITUICAO": "ASSOCIAÇÃO COLORINDO A VIDA - Casa Ronald Mc Donald",
+  "CNPJ": "09.112.341/0001-23",
+  "CONTATO": "91 9233-5010 Bianca",
+  "EMAIL": "bianca.ferreira@casaronaldbelem.org.br"
+ },
+ {
+  "LOJA": "Camaragibe",
+  "CIDADE": "Camaragibe ",
+  "UF": "PE",
+  "ENDERECO": "Av. Doutor Belmino Correia, 681 - Bairro Novo do Carmelo - CEP: 54.762-303",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Natal Coteminas ",
+  "CIDADE": "São Gonçalo do Amante ",
+  "UF": "RN",
+  "ENDERECO": "Av. Bacharel Tomaz Landim, s/n - Jardim Lola - CEP: 59.290-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "São José dos Campos ",
+  "CIDADE": "São José dos Campos ",
+  "UF": "SP",
+  "ENDERECO": "Av. Dr. Sebastião Henrique da Cunha Pontes, 4600 Quadra 24 lote 10/11 - CEP: 12.237-823",
+  "INSTITUICAO": "ROTARY (MONTE SINAI)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Manaus Grande Circular",
+  "CIDADE": "Manaus",
+  "UF": "AM",
+  "ENDERECO": "Av. Autaz Mirim n°8755 - Novo Aleixo - CEP: 69.099-045",
+  "INSTITUICAO": "Instituto Filippo Smaldone",
+  "CNPJ": "04.834.065/0001-93",
+  "CONTATO": "85996856466 Raquel",
+  "EMAIL": "filipposmaldoneam@gmail.com"
+ },
+ {
+  "LOJA": "Bala Juquinha",
+  "CIDADE": "Santo André",
+  "UF": "SP",
+  "ENDERECO": "Avenida dos Estados, 1155 - Vila Metalurgica - CEP.: 09220-570",
+  "INSTITUICAO": "ROTARY (NAECAL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Jacu Pessego",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Avenida Jacu - Pessego 750 - Vila Jacui - CEP: 08260-005",
+  "INSTITUICAO": "ROTARY (DOAÇÃO DO BEM PROJETO VIVER)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Ilheus ",
+  "CIDADE": "Ilhéus ",
+  "UF": "BA",
+  "ENDERECO": "Avenida Tancredo Neves, 4050 - Nossa Senhora da Vitoria  - Ilheus - CEP: 45655-650",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Jaraguá / Taipas",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Avenida Raimundo Pereira de Magalhães 10535 - Parte 1 - Jardim Lider - CEP: 02.983-055",
+  "INSTITUICAO": "Instituto Chamado Leão Da Tribo De Judá",
+  "CNPJ": "30.755.602/0001-10",
+  "CONTATO": "11947568094 Lucas",
+  "EMAIL": "institutoleaodatribodejuda@gmail.com"
+ },
+ {
+  "LOJA": "Franco da Rocha",
+  "CIDADE": "Franco da Rocha",
+  "UF": "SP",
+  "ENDERECO": "Rod Luiz Samuel Chama S/N Gleba B Lote Area 8  B - CEP: 07857-050",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Pilares",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Av. Dom Helder Camara, nº 6.350 - Pilares - CEP: 20771-001",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "São Vicente ",
+  "CIDADE": "São Vicente ",
+  "UF": "SP",
+  "ENDERECO": "Av. Antonio Emmerick, 245 - Vila Cascatinha- CEP: 11.390-001",
+  "INSTITUICAO": "LIONS CLUBE DE SAO VICENTE",
+  "CNPJ": " 52.252.293/0001-06",
+  "CONTATO": "Márcia  13 99214-6180",
+  "EMAIL": "mcapelazo@gmail.com"
+ },
+ {
+  "LOJA": "Taubaté",
+  "CIDADE": "Taubaté",
+  "UF": "SP",
+  "ENDERECO": "Avenida Dom Pedro I, 630 E - Terra Nova - CEP: 12081-810",
+  "INSTITUICAO": "ROTARY (MARAVILHAS DE CRISTO)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Duque de Caxias ",
+  "CIDADE": "Duque de Caixas",
+  "UF": "RJ",
+  "ENDERECO": "Av. Governador Leonel de Moura Brizola 2973 - Vila Centenario - CEP: 25.030-001",
+  "INSTITUICAO": "Centro Integrada de Apoio à Criança e ao Adolescente Rosa e Azul - CIACA",
+  "CNPJ": "09.615.210/0001-69",
+  "CONTATO": "(21) 99173-4648 (21) 3477-0883 Selma",
+  "EMAIL": "selma_rosaeazul@yahoo.com.br"
+ },
+ {
+  "LOJA": "Ayrton Senna",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Av Ayrton Senna, 6000 - Lot 2 Pal 48959 - Jacarepagua - CEP: 22.775-005",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Teresina",
+  "CIDADE": "Teresina ",
+  "UF": "PI",
+  "ENDERECO": "Rua Jacinto Rufino Macedo 1000 - São Raimundo - CEP: 64.075-080",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Ananindeua",
+  "CIDADE": "Ananindeua",
+  "UF": "PA",
+  "ENDERECO": "Rod BR 316, 1760 - KM 09 N 1760 A - Centro - CEP: 67033-010",
+  "INSTITUICAO": "Associação dos Moradores e Amigos do Distrito Industrial - AMADIS",
+  "CNPJ": "39.408.049/0001-13",
+  "CONTATO": "9199198-6455 9199918-5077",
+  "EMAIL": "amadismds@gmail.com"
+ },
+ {
+  "LOJA": "Sabão Portugues",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Avenida Brasil, nº 2.251 - São Cristóvão - CEP: 20930-041",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Tangredo Neves ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rua Nossa Senhora das Mercês nº 29 - Vila das Mercês  CEP: 04165-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Serra Talhada",
+  "CIDADE": "Serra Talhada ",
+  "UF": "PE",
+  "ENDERECO": "AV WALDEMAR IGNACIO DE OLIVEIRA S/N, TERRENO QUADRAC LOTE 17 BOM JESUS - CEP: 56.906-010 ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Camaçari",
+  "CIDADE": "Camaçari ",
+  "UF": "BA",
+  "ENDERECO": "Avenida Jorge Amado, s/n - LOTE 02A  - Jardim Limoeiro -CEP: 42802-580 ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Goiania Perimetral",
+  "CIDADE": "Goiania",
+  "UF": "GO",
+  "ENDERECO": "Avenida Perimetral Norte, Qd 03 Lote 1/2/3 - Setor Vila João Braz - CEP 74.445-190",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "São Luis Turu",
+  "CIDADE": "São Luis",
+  "UF": "MA",
+  "ENDERECO": "Av São Luis Rei de Franca S/N Anexo Área H3 -  Turu -CEP: 65065-470",
+  "INSTITUICAO": "Mesa Brasil MA",
+  "CNPJ": "04.155.096/0001-18",
+  "CONTATO": "(98) 99973-5431 Roberta",
+  "EMAIL": "rribeiro@ma.sesc.com.br"
+ },
+ {
+  "LOJA": "Rio Dutra ",
+  "CIDADE": "Mesquita ",
+  "UF": "RJ",
+  "ENDERECO": "Rodovia Presidente Dutra, 10521 - BNH - CEP: 26574-751",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Lauro de Feitas ",
+  "CIDADE": "Lauro de Freitas ",
+  "UF": "BA",
+  "ENDERECO": "Avenida Santos Dumont,2239 - Portão - CEP: 42700-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Aricanduva",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Avenida Aricanduva, 5555 Ancora Assai - Vila Aricanduva - CEP: 03.527-000",
+  "INSTITUICAO": "ROTARY (PROJETO RESGATE)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Maracanaú",
+  "CIDADE": "Maracanau ",
+  "UF": "CE",
+  "ENDERECO": "Av. Senador Virgílio Tavora - SN - Distrito Industrial I - CEP: 61.939-160",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Manaus _2",
+  "CIDADE": "Manaus",
+  "UF": "AM",
+  "ENDERECO": "Av. Ephigenio Salles, 2045 - Aleixo - CEP: 069.060-020",
+  "INSTITUICAO": "Casa do Idoso São Vicente de Paulo de Manaus",
+  "CNPJ": "04.162.681/0001-45",
+  "CONTATO": "92 98855-0364 / 92 3625-7569",
+  "EMAIL": "casadoidoso.svp@hotmail.com"
+ },
+ {
+  "LOJA": "Itabaiana",
+  "CIDADE": "Itabaiana ",
+  "UF": "SE",
+  "ENDERECO": "AV EDUARDO PAIXAO ROCHA 1667 - PORTO - CEP: 49.510-190",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Sezefredo Fagundes",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Coronel Sezefredo Fagundes, 535 - Tucuruvi - CEP: 02.306-000",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Embu das Artes ",
+  "CIDADE": "Embú das Artes ",
+  "UF": "SP",
+  "ENDERECO": "Av Elias Yazbek, 1183 - Tingidor - CEP: 06.803-002",
+  "INSTITUICAO": "Associação Amigos de Bairro Jardim Mimás São Paulo",
+  "CNPJ": "65.694.895/0001-57",
+  "CONTATO": "11 98039-3229  Cristiano Mendez",
+  "EMAIL": "cristianomendes289@gmail.com, associacao852@gmail.com"
+ },
+ {
+  "LOJA": "Tijuca II",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Rua Matriz e Barros nº 975 - Sup H Beltrão - CEP: 20270-004",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Jandira",
+  "CIDADE": "Jandira ",
+  "UF": "SP",
+  "ENDERECO": "Avenida Alziro Soares, 20 - Nucleo Micro Industrial Presidente Wilson - CEP: 06602-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Arapiraca",
+  "CIDADE": "Arapiraca",
+  "UF": "AL",
+  "ENDERECO": "Rua Maria Genusir Soares, 308, SETOR 08 QUADRALOC 958 LOTE 0468 - PLANALTO CEP: 57308-532",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "São Matheus",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Ragueb Chohfi, 58 - Jardim Tres Marias - CEP: 08.375-000",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Campinas Centro ",
+  "CIDADE": "Campinas ",
+  "UF": "SP",
+  "ENDERECO": "Av. Senador Saraiva, 835 - Centro -CEP: 13.013.061",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Cidade Dutra ",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Senador Teotonio Vilela 2962 - Cidade Dutra - CEP: 04801-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Diadema Piraporinha ",
+  "CIDADE": "Diadema ",
+  "UF": "SP",
+  "ENDERECO": "Av Piraporinha 1144, Vila Nogueira - CEP: 09.950-000",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "São Miguel_2",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. São Miguel, 6838 - Vila Norma - CEP:08.070-002",
+  "INSTITUICAO": "Associação Casa Dos Deficiêntes De Emelino Matarazzo - Acdem",
+  "CNPJ": "61.058.475/0001-23",
+  "CONTATO": "(11) 99691-1843 Marlene ",
+  "EMAIL": "acdemiv@yahoo.com.br"
+ },
+ {
+  "LOJA": "Uberlândia",
+  "CIDADE": "Uberlândia",
+  "UF": "MG",
+  "ENDERECO": "Av Governador Rondon Pacheco, 755 - Tabajaras - CEP: 38.400-242",
+  "INSTITUICAO": "Ação Moradia",
+  "CNPJ": "04.172.671/0001-90",
+  "CONTATO": " (34)988118603 Daiane  34 991119655",
+  "EMAIL": "qualificacao@acaomoradia.org.br "
+ },
+ {
+  "LOJA": "Guanambi ",
+  "CIDADE": "Guanambi ",
+  "UF": "BA",
+  "ENDERECO": "Rodovia BR 030 - 5978 - km 06 - São Sebastião -CEP: 46430-000",
+  "INSTITUICAO": "ASSOCIAÇÃO ACONCHEGO E VIDA - AAV",
+  "CNPJ": "39.580.578/0001-08",
+  "CONTATO": "ERMÊNIO DE SOUZA AMORIM  (77) 98111-0141",
+  "EMAIL": "casadeacolhidamadreippolita@hotmail.com"
+ },
+ {
+  "LOJA": "Meier",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Rua Dias da Cruz 371, - Rio de Janeiro -Meier -  CEP: 20.720-010",
+  "INSTITUICAO": "ASSOCIAÇÃO MARANATHA DO RIO DE JANEIRO",
+  "CNPJ": "05.284.121/0001-26",
+  "CONTATO": "21-99922-0393  Martins",
+  "EMAIL": "martinsmaranatharj@gmail.com"
+ },
+ {
+  "LOJA": "Shop Mauá ",
+  "CIDADE": "Mauá ",
+  "UF": "SP",
+  "ENDERECO": "Av. Antonia Rosa Fioravanti, 3270 - Jardim Rosina -  - CEP: 09390-120",
+  "INSTITUICAO": "Casa do Cristo Redentor ",
+  "CNPJ": "62.366.844/0001-08",
+  "CONTATO": "94119-3535 Adriana",
+  "EMAIL": "adm@casadocristo.org.br"
+ },
+ {
+  "LOJA": "Londrina_2",
+  "CIDADE": "Londrina ",
+  "UF": "PR",
+  "ENDERECO": "Av. Saul Elkind, 2211 - Conjunto Vivi Xavier - Londrina - CEP: 86.082-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Caruaru II",
+  "CIDADE": "Caruaru ",
+  "UF": "PE",
+  "ENDERECO": "Avenida João de Barros, S/N Quadra 13 - Petropolis - CEP.: 55030-280",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Golf Club",
+  "CIDADE": "Salvador ",
+  "UF": "BA",
+  "ENDERECO": "Rua Genaro de Carvalho, 516, tr - Jardim Cajazeiras - CEP: 41230-304",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Bras Cubas",
+  "CIDADE": "Mogi das Cruzes ",
+  "UF": "SP",
+  "ENDERECO": "AV HENRIQUE PERES 1.330 - VILA BERNADOTTI -CEP: 08.735-400",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Santa Catarina",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. Santa Catarina, 1672 - Vila Mascote - CEP: 04.378-100",
+  "INSTITUICAO": "ROTARY (REMAR BRASIL)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Piracicaba",
+  "CIDADE": "Piracicaba ",
+  "UF": "SP",
+  "ENDERECO": "Rua Regente Feijó, 823 - Centro - CEP: 13.400-100",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Paulinia",
+  "CIDADE": "Paulínia ",
+  "UF": "SP",
+  "ENDERECO": "Av. José Paulino, 2600 - Jardim América - CEP: 13.140-707",
+  "INSTITUICAO": "Instituto Batista Lázaro Ferreira Filho",
+  "CNPJ": "22.917.836/0001-98",
+  "CONTATO": "Moisés Rotth Cantos 19 991690441",
+  "EMAIL": "presidente@institutobatistalff.org.br"
+ },
+ {
+  "LOJA": "Castanhal",
+  "CIDADE": "Castanhal",
+  "UF": "PA",
+  "ENDERECO": "Av. Presidente Getulio Vargas, 5600 Jaderlandia- CEP: 68.745-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Iguatu",
+  "CIDADE": "Iguatu",
+  "UF": "CE",
+  "ENDERECO": "Av. Carlos Roberto Cista S/N - Areias II - CEP: 63508-050",
+  "INSTITUICAO": "APAE - Associação de Pais e Amigos dos Excepcionais de Iguatu",
+  "CNPJ": "03.530.341/0001-67",
+  "CONTATO": "88 99680-2364 Ieda",
+  "EMAIL": "iguatu@apaece.org.br"
+ },
+ {
+  "LOJA": "Imperatriz",
+  "CIDADE": "Imperatriz",
+  "UF": "MA",
+  "ENDERECO": "Rod BR 010 KM12 - CEP: 65909-170",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Hortolândia",
+  "CIDADE": "Hortolândia ",
+  "UF": "SP",
+  "ENDERECO": "Rua Luiz Camilo de Camargo S/N Quadra G Gleba A - Loteamento Remanso - CEP:13184-420",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Araçatuba ",
+  "CIDADE": "Araçatuba ",
+  "UF": "SP",
+  "ENDERECO": "Avenida Waldemar Alves nº 230, Bairro São Vicente, CEP 16050-005",
+  "INSTITUICAO": "ROTARY (AACC - ss. Assist. Criança com Câncer )",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Porto Velho",
+  "CIDADE": "Porto Velho ",
+  "UF": "RO",
+  "ENDERECO": "Rua da Beira, 6881 - Lagoa - CEP: 76.812.241",
+  "INSTITUICAO": "Mesa Brasil RO",
+  "CNPJ": "03.743.123/0001-00",
+  "CONTATO": "69 992260703 Valécia",
+  "EMAIL": "mesabrasil@sescro.com.br"
+ },
+ {
+  "LOJA": "Palmas",
+  "CIDADE": "Palmas ",
+  "UF": "TO",
+  "ENDERECO": "AV JOAQUIM TEOTONIO SEGURADO S/N - QUADRAACSUSE 150  - PLANO DIRETOR EXPANSAO SUL - CEP: 77.061-002 ",
+  "INSTITUICAO": "Mesa Brasil TO",
+  "CNPJ": "03.779.012/0001-54",
+  "CONTATO": "63984005595",
+  "EMAIL": "any@sescto.com.br"
+ },
+ {
+  "LOJA": "Salvador (Mussurunga)",
+  "CIDADE": "Salvador ",
+  "UF": "BA",
+  "ENDERECO": "Rua Professor Plinio Garcez de Sena , 1.240 - Mussurunga -CEP: 41.490-340",
+  "INSTITUICAO": "MAIS - MOVIMENTOS DE ARTICULAÇÃO E INCLUSÃO SOCIAL",
+  "CNPJ": "24.408.300/0001-72",
+  "CONTATO": "71987665045",
+  "EMAIL": "santosoliveira.claudia@hotmail.com"
+ },
+ {
+  "LOJA": "Indaiatuba",
+  "CIDADE": "Indaiatuba ",
+  "UF": "SP",
+  "ENDERECO": "AV FRANCISCO DE PAULA LEITE - 2242 - QUADRA LOTE A - PARQUE DAS NAÇÕES - CEP: 13.346-055",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Maceió (Durval Gomes)",
+  "CIDADE": "Maceió",
+  "UF": "AL",
+  "ENDERECO": "Avenida Doutor Durval de Goes Monteiro, 10.580  - CEP: 57081-285",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "SINOP",
+  "CIDADE": "Sinop",
+  "UF": "MT",
+  "ENDERECO": "Av. Dos Jacarandas nº 4030 R.1 Quadra 019 Lote 999 - CEP: 78557-094",
+  "INSTITUICAO": "CENTRO SOCIAL MENINO JESUS DE SINOP",
+  "CNPJ": "32.944.423/0001-56",
+  "CONTATO": "66 996390707 Sirley",
+  "EMAIL": "centromeninojesus@terra.com.br"
+ },
+ {
+  "LOJA": "Petrópolis",
+  "CIDADE": "Petrópolis",
+  "UF": "RJ",
+  "ENDERECO": "Estrada União e Indústria, 870 - Roseiral - CEP: 25715-131",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Picos",
+  "CIDADE": "Picos ",
+  "UF": "PI",
+  "ENDERECO": "ROD BR-316 S/N - BELO NORTE - CEP: 64.603-000",
+  "INSTITUICAO": "ASSOCIAÇÃO BENEFICENTE JOÃO XXIII",
+  "CNPJ": "06.592.661/0001-30",
+  "CONTATO": "86 9403-8362 Luiza",
+  "EMAIL": "thegirl_588@hotmail.com"
+ },
+ {
+  "LOJA": "Aracaju Sul",
+  "CIDADE": "Aracaju ",
+  "UF": "SE",
+  "ENDERECO": "Avenida Melicio Machado, 240 -  Aeroporto - CEP:49.038-443",
+  "INSTITUICAO": "Lar Infantil Cristo Redentor",
+  "CNPJ": "13.042.817/0001-74",
+  "CONTATO": "(79) 3245-2042 Elizia",
+  "EMAIL": "onglicre@gmail.com"
+ },
+ {
+  "LOJA": "Senhor do Bonfim",
+  "CIDADE": "Senhor do Bonfim ",
+  "UF": "BA",
+  "ENDERECO": "Rua Jose Otavio Carvalho, S/N - Umburana- CEP: 48.970-000",
+  "INSTITUICAO": "Associação dos mutirantes do alto da Maravilha",
+  "CNPJ": "37.868.298/0001-66",
+  "CONTATO": "71 9983-6056 Andrea 74 99922_4225 katiana  Mariana 74 99110-4634",
+  "EMAIL": "projetoalemdemim@gmail.com"
+ },
+ {
+  "LOJA": "Serrinha ",
+  "CIDADE": "Serrinha ",
+  "UF": "BA",
+  "ENDERECO": "Avenida Lomanto Junior Margem BR 116, S/N - Cidade Nova - CEP: 48700-000",
+  "INSTITUICAO": "ASSOCIAÇÃO BENEFICENTE DO CENTRO DE RECUPERAÇÃO GENESIS",
+  "CNPJ": "07.357.712/0001-01",
+  "CONTATO": "Ilton 75 99848-9933",
+  "EMAIL": "lula_dos_anjos@hotmail.com"
+ },
+ {
+  "LOJA": "Parnaíba",
+  "CIDADE": "Parnaíba ",
+  "UF": "PI",
+  "ENDERECO": "Rodovia BR 343, 3.775 Setor 06 QD 029 LT636 - João XXIII - CEP: 64.205-200",
+  "INSTITUICAO": "FUNDAÇÃO DR. RAUL FURTADO BACELLAR",
+  "CNPJ": "00.342.779/0001-23",
+  "CONTATO": "Renato Bacellar (86) 98804-4343",
+  "EMAIL": "bacellaradvogados@gmail.com"
+ },
+ {
+  "LOJA": "Parauapebas",
+  "CIDADE": "Parauapebas",
+  "UF": "PA",
+  "ENDERECO": "ROD PA 275 , S/N GLEBA CARAJAS III - CEP: 68.515-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Campos dos Goytacazes",
+  "CIDADE": "Campos dos Goytacazes ",
+  "UF": "RJ",
+  "ENDERECO": "Avenida Doutor Nilo Pecanha, 479 - Parque Santo Amaro - CEP: 28.030-035",
+  "INSTITUICAO": "CENTRO DE ASSISTENCIA SOCIAL E TERAPEUTICO DIVA MARINA GOULART - APOE",
+  "CNPJ": "28.891.430/0001-60",
+  "CONTATO": "Cris 22 99901-6652",
+  "EMAIL": "apoecampos@hotmail.com"
+ },
+ {
+  "LOJA": "Messejana",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Rod. BR 116 - Nº 7555 - Messejana -CEP: 60842-395",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Macapá",
+  "CIDADE": "Macapá",
+  "UF": "AP",
+  "ENDERECO": "AV STEPHAN HOUAT S/N  LOTE 03 QUADRA JARDIM MARCO ZERO - CEP: 68.903-193",
+  "INSTITUICAO": "ONG CARLOS DANIEL  ",
+  "CNPJ": "22.767.286/0001-78",
+  "CONTATO": "AGENILSON DA SILVA PEREIRA   (96) 991654007",
+  "EMAIL": "ongcarlosdaniel@gmail.com   agenilsonsilva016@gmail.com"
+ },
+ {
+  "LOJA": "Santarem Conquista",
+  "CIDADE": "Santarém",
+  "UF": "PA",
+  "ENDERECO": "AV ENGENHEIRO FERNANDO GUILHON - S/N - AMPARO  CEP: 68.035-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Cuiabá Jardim das Américas",
+  "CIDADE": "Cuiabá",
+  "UF": "MT",
+  "ENDERECO": "Av Fernando Correa da Costa nº 1255 - Jartdfim das Américas CEP: 78060-600",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "São Luis Guajajaras",
+  "CIDADE": "São Luis",
+  "UF": "MA",
+  "ENDERECO": "Avenida Guajajaras, 270 - São Bernardo - CEP: 65.056-045",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Anapolis",
+  "CIDADE": "Anápolis",
+  "UF": "GO",
+  "ENDERECO": "Avenida Universitária, 765 QD LT Reciclegem - Jardim Bandeirante - CEP: 75.083-035",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Curitiba - JK",
+  "CIDADE": "Curitiba",
+  "UF": "PR",
+  "ENDERECO": "Avenida Juscelino Kubitshek de Oliveira, 2511 - CEP: 81.270-200",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Itapetinga",
+  "CIDADE": "Itapetinga ",
+  "UF": "BA",
+  "ENDERECO": "ROD BA 263, 213 Lote 14 Quadra K  - Recanto da Colina - CEP: 45.700-000",
+  "INSTITUICAO": "ASSOCIACAO NOSSA SENHORA DAS DORES",
+  "CNPJ": "18.946.028/0001-81",
+  "CONTATO": "(77) 991235209 - Administrativo / (77) 991318294 Géssica - Coordenação",
+  "EMAIL": "a.nossasenhoradasdores@gmail.com"
+ },
+ {
+  "LOJA": "Boa Vista",
+  "CIDADE": "Boa Vista ",
+  "UF": "RR",
+  "ENDERECO": "Avenida Brasil, 616 - Pricuma - CEP: 69.309-575",
+  "INSTITUICAO": "Mesa Brasil RR",
+  "CNPJ": "03.488.834/0001-86",
+  "CONTATO": "95 9162-8856 Regina",
+  "EMAIL": "mesabrasil@sescrr.com.br"
+ },
+ {
+  "LOJA": "Cabo de Santo Agostinho",
+  "CIDADE": "Cabo de Santo Agostinho",
+  "UF": "PE",
+  "ENDERECO": "Rod PE 60, 2520 - Garapu - CEP:54.518-343",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Nações Unidas",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av. das Nações Unidas, nº 22777 - Vila Almeida - CEP:04795-100",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Jundiaí Ferroviários",
+  "CIDADE": "Jundiaí ",
+  "UF": "SP",
+  "ENDERECO": "Av União dos Ferroviários nº 2.940 - Ponte de Campinas - CEP: 13201-160",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Santa Cruz",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Av Padre Miguel Decaminada Nº 2385 - Santa Cruz - CEP: 23575-000",
+  "INSTITUICAO": "FEDERAÇÃO BRASILEIRA DE COMUNIDADES TERAPEUTICAS CRISTAS",
+  "CNPJ": "06.955.556/0001-18",
+  "CONTATO": "(21) 98302-3545 Isaias - ADMINISTRATIVO",
+  "EMAIL": "ebenezer.campolindo.rj@gmail.com"
+ },
+ {
+  "LOJA": "Cesário de Melo (Campo Grande)",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Av Cesário de Melo, nº3470 Loja A - CEP: 23050-102",
+  "INSTITUICAO": "ASSOCIACAO VENCEDOR CADA DIA       ",
+  "CNPJ": "31.097.601/0001-98",
+  "CONTATO": "21983037558",
+  "EMAIL": "fzeneide.lima@gmail.com"
+ },
+ {
+  "LOJA": "São Bernardo (Av. Taboão)",
+  "CIDADE": "São Bernardo do Campo",
+  "UF": "SP",
+  "ENDERECO": "Av do Taboão nº 574 - CEP: 09655-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Avenida Recife",
+  "CIDADE": "Recife ",
+  "UF": "PE",
+  "ENDERECO": "Av Recife nº 5.777 - Jardim São Paulo - CEP:50910-380",
+  "INSTITUICAO": "Abrigo Jesus Menino",
+  "CNPJ": "09.869.926/0001-92",
+  "CONTATO": "Luciana   Telefone : 81 98185-3254  Betania 81 98775-5501",
+  "EMAIL": "abrigojesusmenino@gmail.com"
+ },
+ {
+  "LOJA": "Pereira Barreto",
+  "CIDADE": "Santo André",
+  "UF": "SP",
+  "ENDERECO": "Av Pereira Barreto nº2.444 Quadra ESQ Av Lauro Gomes  - Jardim Bom Pastor - CEP:09190-210",
+  "INSTITUICAO": "Ação da Cidadania",
+  "CNPJ": "00.346.076/0001-73",
+  "CONTATO": "Carlos 21 99222-3685",
+  "EMAIL": "carlos.antonio@acaodacidadania.org.br"
+ },
+ {
+  "LOJA": "Rio Branco",
+  "CIDADE": "Rio Branco",
+  "UF": "AC",
+  "ENDERECO": "Rod BR 364 (Rio Branco - Porto Velho ) Até 5013 Lado Impar nº 1897 - Santa Inês - CEP:69907-701",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "João Pessoa Cabedelo",
+  "CIDADE": "João Pessoa",
+  "UF": "PB",
+  "ENDERECO": "Rod BR 230 S/N Lote R1 Prop Boi So -Parque Esperança -  CEP: 58102-502",
+  "INSTITUICAO": "ASPAN",
+  "CNPJ": "08.558.819/0001-80",
+  "CONTATO": "83 99827-6828",
+  "EMAIL": "aspanfinancas@gmail.com aspanassociacao@yahoo.com.br"
+ },
+ {
+  "LOJA": "Manaus Torquarto",
+  "CIDADE": "Manaus",
+  "UF": "AM",
+  "ENDERECO": "Av Torquarto Tapajos Nº 2200  - Flores - CEP:69058-830",
+  "INSTITUICAO": "Instituto Filippo Smaldone",
+  "CNPJ": "04.834.065/0001-93",
+  "CONTATO": "85996856466 Raquel",
+  "EMAIL": "filipposmaldoneam@gmail.com"
+ },
+ {
+  "LOJA": "São Gonçalo ",
+  "CIDADE": "São Gonçalo ",
+  "UF": "RJ",
+  "ENDERECO": "Rua Doutor Alberto Torres, S/N - Porto Velho - São Gonçalo/RJ - CEP: 24426-435.",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Betim",
+  "CIDADE": "Betim",
+  "UF": "MG",
+  "ENDERECO": "Av Juiz Marco Tulio Isaac  Nº 3355 Lote AR 01, Quadra AR 01 - Parque das industrias - CEP:32671-345",
+  "INSTITUICAO": "ASSOCIAÇÃO COMUNITÁRIA DE APOIO A GESTANTE E A INFÂNCIA DE RIO MANSO",
+  "CNPJ": "24.260.780/0001-77",
+  "CONTATO": "EMERSON - 31-99917-8817 31 9950-0399 Valeria",
+  "EMAIL": "culturariomanso@gmail.com   crechecomunitariariomanso@gmail.com"
+ },
+ {
+  "LOJA": "Caldas Novas",
+  "CIDADE": "Caldas Novas",
+  "UF": "GO",
+  "ENDERECO": "AV SANTO AMARO Nº 1697 - SOLAR DE CALDAS NOVAS - CALDAS NOVAS- CEP: 75696-057",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Maringá II",
+  "CIDADE": "Maringá ",
+  "UF": "PR",
+  "ENDERECO": "Av Colombo nº 9322 Lote 1B, Lote 1C, Lote 1D - Gleba Patrimônio Maringá - CEP:87070-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Rondonópolis Bandeirantes",
+  "CIDADE": "Rondonópolis",
+  "UF": "MT",
+  "ENDERECO": "Av João Ponce de Arruda nº 4362 - Centro - CEP:78700-260",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "São João de Meriti",
+  "CIDADE": "São João do Meriti",
+  "UF": "RJ",
+  "ENDERECO": "Rod Presidente Dutra Nº 4301 - Jardim José Bonifácio  CEP: 25515-230",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Araruama",
+  "CIDADE": "Araruama",
+  "UF": "RJ",
+  "ENDERECO": "AV GETULIO VARGAS S/N, PICADA, ARARUAMA - RJ  28970-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Porto Velho Imigrantes",
+  "CIDADE": "Porto Velho ",
+  "UF": "MT",
+  "ENDERECO": "Av dos Imigrantes nº 4045 - Industrial - CEP:76821-063",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Feira de Santana - Tomba",
+  "CIDADE": "Feira de Santana ",
+  "UF": "BA",
+  "ENDERECO": "Av Eduardo Froes da Mota nº 2500 - Tomba - CEP:44090-156",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Teresina II",
+  "CIDADE": "Teresina",
+  "UF": "PI",
+  "ENDERECO": "Av Raul Lopes nº 2757 Lote 11 A, Lote 11 B, Lote 11 C - Ininga - CEP:64049-560",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Curitiba Atuba",
+  "CIDADE": "Curitiba",
+  "UF": "PR",
+  "ENDERECO": "Rod BR-476, Nº 1.801 - Atuba - CEP: 81460-090",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Cordovil",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Rua Aricanbu nº 65 Lote 01 Pal 46344 - Cordovil - CEP:21012-050",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "MACAÉ OBELISCO",
+  "CIDADE": "Macaé",
+  "UF": "RJ",
+  "ENDERECO": "Av Lacerda Agostinho s/n Lote 3 - Virgem Santa - CEP:27948-005",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Itapevi",
+  "CIDADE": "Itapevi",
+  "UF": "SP",
+  "ENDERECO": "Rod Engenheiro Rene Benedito da Silva nº 977 - São João - CEP:06683-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Tapioqueiras",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Rua Miguel Gurgel nº 1900 Comercial - Coacu - CEP:60871-790",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Belém Batista Campos",
+  "CIDADE": "Belém",
+  "UF": "PA",
+  "ENDERECO": "Av Conselheiro Furtado nº 76  - Batista Campos - CEP: 66025-160",
+  "INSTITUICAO": "AVAO (Associação Voluntariado de Apoio a Oncologia)",
+  "CNPJ": "03.114.293/0001-26",
+  "CONTATO": "91 3249-8450 Ana",
+  "EMAIL": "avaonet@hotmail.com"
+ },
+ {
+  "LOJA": "SANTA BARBARA D'OESTE",
+  "CIDADE": "Santa Bárbara D'oeste",
+  "UF": "SP",
+  "ENDERECO": "Rua da Agricultura nº 1258 - Loteamento Industrial - CEP:13454-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Fortaleza Kennedy",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Av Sargento Sampaio Hermínio S/N Lote 1 Quadra 04 - Presidente Kennedy - CEP:60355-503",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Ribeirão Preto Castelo Branco",
+  "CIDADE": "Ribeirão Preto",
+  "UF": "SP",
+  "ENDERECO": "Av Presidente Castelo Branco nº 50 - Jardim Castelo Branco - CEP:14091-285",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Barreiras",
+  "CIDADE": "Barreiras",
+  "UF": "BA",
+  "ENDERECO": "Av Cleriston Andrade nº 1.897  - Sao Miguel - CEP: 47800-390",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Barris",
+  "CIDADE": "Salvador ",
+  "UF": "BA",
+  "ENDERECO": "Rua do Salete nº 30 - Barris - CEP: 40070200",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Piracicaba II",
+  "CIDADE": "Piracicaba",
+  "UF": "SP",
+  "ENDERECO": "Av Antônio Fazanaro nº 95 - Pauliceia - CEP: 13424-022",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Barra da Tijuca",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Av das Americas, Nº 900 - Barra da Tijuca - CEP: 22793-081",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Ipatinga",
+  "CIDADE": "Ipatinga",
+  "UF": "MG",
+  "ENDERECO": "Av Pedro Linhares Gomes, 5.765 - Industrial - CEP: 35160-291",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Tribobó",
+  "CIDADE": "São Gonçalo ",
+  "UF": "RJ",
+  "ENDERECO": "Av Fued Moises, n° 114 - Tribobó - CEP: 24755-030",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Sete Lagoas",
+  "CIDADE": "Sete Lagoas",
+  "UF": "MG",
+  "ENDERECO": "Av. Doutor Renato Azeredo,Nº 2.575 - Canaa - CEP: 35700-312",
+  "INSTITUICAO": "VILA VICENTINA DE SETE LAGOAS",
+  "CNPJ": "24.994.428/0001-65",
+  "CONTATO": "GERALDO (31) 9-9292-0995",
+  "EMAIL": "vilavicentinadesetelagoas@yahoo.com.br"
+ },
+ {
+  "LOJA": "Petrolina",
+  "CIDADE": "Petrolina",
+  "UF": "PE",
+  "ENDERECO": "Av Sete de Setembro, S/N, Anexo Área 2 A 1 - Antonio Cassimiro - CEP: 56330-900",
+  "INSTITUICAO": "ONG MOVIMENTO - PROJETOS SOCIAIS ",
+  "CNPJ": "29.985.733/0001-04",
+  "CONTATO": "Paula 87- 98830-0339 ",
+  "EMAIL": "movimento@verbopetrolina.com"
+ },
+ {
+  "LOJA": "Nossa Senhora do Socorro",
+  "CIDADE": "Nossa Senhora do Socorro",
+  "UF": "SE",
+  "ENDERECO": "Av Eixo Estrutural B S/N Quadra 2 Lote 1 - Distrito - CEP: 49160-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Belém Almirante",
+  "CIDADE": "Belém",
+  "UF": "PA",
+  "ENDERECO": "Av Almirante Barroso, 5.386 - Castanheira - - CEP: 66645-250",
+  "INSTITUICAO": "AVAO (Associação Voluntariado de Apoio a Oncologia)",
+  "CNPJ": "03.114.293/0001-26",
+  "CONTATO": "91 3249-8450 Ana",
+  "EMAIL": "avaonet@hotmail.com"
+ },
+ {
+  "LOJA": "Marginal Tietê Tatuapé",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rua Ulisses Cruz,nº 993 Lote A - CEP: 03077-000",
+  "INSTITUICAO": "ROTARY (DOAÇÃO DO BEM PROJETO VIVER)",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Cabula",
+  "CIDADE": "Salvador ",
+  "UF": "BA",
+  "ENDERECO": "Rua Silveira Martins, Nº 119, Cabula, Salvador – BA / CEP: 41150-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Vasco da Gama",
+  "CIDADE": "Salvador",
+  "UF": "BA",
+  "ENDERECO": "Av Vasco da Gama, nº 4049 Loja Federação - Federação- CEP: 40230-731",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Guarulhos Bosque Maia",
+  "CIDADE": "Guarulhos",
+  "UF": "SP",
+  "ENDERECO": "Av Salgado Filho nº 1301, Centro - Centro- CEP: 07115-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Curitiba Alto da XV",
+  "CIDADE": "Curitiba",
+  "UF": "PR",
+  "ENDERECO": "Av Marechal Humberto de Alencar C Branco nº 230  - Cristo Rei- CEP: 82530-195",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Belvedere",
+  "CIDADE": "Belo Horizonte",
+  "UF": "MG",
+  "ENDERECO": "Rua Maria Luiza Santiago 110 - CEP: 30.360-740",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Mogilar",
+  "CIDADE": "Mogi das Cruzes",
+  "UF": "SP",
+  "ENDERECO": "Av Prefeiro Carlos Ferreira Lopes nº 600 - Vila Mogilar- CEP: 08773-490",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "São Gonçalo Centro",
+  "CIDADE": "São Gonçalo",
+  "UF": "RJ",
+  "ENDERECO": "Av Presidente Kennedy, nº 429 - Centro- CEP: 24445-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Maria Lacerda",
+  "CIDADE": "Parnamirim",
+  "UF": "RN",
+  "ENDERECO": "Av Maria Lacerda Montenegro, nº 900 - Nova Parnamirim- CEP: 59152-600",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Interlagos",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av Sarg Geraldo Santa'ana, nº 1491 - Jardim Taquaral- CEP: 04674-225",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Raposo Tavares",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av Mal Fiuza de Castro nº 239 KM14 - Jardim Pinheiros- CEP: 05596-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Anhanguera",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rua Samuel Klabin nº 193",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Jaguaré Corifeu",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av Corifeu de Azevedo Marques nº 4160 - Vila  Lajeado- CEP: 05340-002",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Penha Tiquatira",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av São Miguel nº 962 - Vila Marieta- CEP: 03620-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Guaianases 2",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Est Itaquera Guaianases nº 2671",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Araraquara",
+  "CIDADE": "Araraquara",
+  "UF": "SP",
+  "ENDERECO": "Av José Bonifácio, nº 483",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Taboão Centro",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Rua João Batista de Oliveira nº 47 Centro - Taboão da Serra- CEP: 06763-450",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Freguesia do Ó II",
+  "CIDADE": "São Paulo",
+  "UF": "SP",
+  "ENDERECO": "Av NSRA do Ó Nº 1759 - Limão- CEP: 02715-000",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Maracanã",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Rua José Higino nº 115 - Tijuca- CEP: 20520-201",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Aracajú Adélia Franco",
+  "CIDADE": "Aracajú",
+  "UF": "SE",
+  "ENDERECO": "Av Adelia Franco nº 3735 - Ináio Barbosa- CEP: 49040-020",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "MACEIÓ FAROL",
+  "CIDADE": "Maceió",
+  "UF": "AL",
+  "ENDERECO": " AV FERNANDES LIMA Nº 4000, GRUTA DE LOURDES - MACEIÓ",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "MANGABEIRA",
+  "CIDADE": "Maceió",
+  "UF": "AL",
+  "ENDERECO": "AV COMENDADOR GUSTAVO PAIVA Nº 3261, MANGABEIRAS, MACEIÓ - AL 57037-532",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": " Itatiba",
+  "CIDADE": "Itatiba",
+  "UF": "SP",
+  "ENDERECO": "Av Luiz Emmanoel Bianchi nº 120 - Lt. Jd. Lucca, de- CEP: 13255-170",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Brasília Park",
+  "CIDADE": "Brasília",
+  "UF": "DF",
+  "ENDERECO": "SMAS Loja 02 Conj 05 Pavmto01 Trecho 03 - Zona Industrial Guara - CEP: 71215-300",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Teixeira de Freitas",
+  "CIDADE": "Teixeira De Freitas",
+  "UF": "BA",
+  "ENDERECO": "Av Presidente Getulio Vargas Nº 7887, Jardim Beira Rio -- Cep: 45994-850",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Sorocaba Santa Rosália",
+  "CIDADE": "Sorocaba",
+  "UF": "SP",
+  "ENDERECO": "R Maria Cinto Biaggi nº 164 - CEP: 18095-410",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Nova Teresina Kennedy",
+  "CIDADE": "Teresina",
+  "UF": "PI",
+  "ENDERECO": "Av Presidente Kennedy nº 501 - São Cristovão - CEP: 64052-345",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Campina Grande Mirante",
+  "CIDADE": "Campina Grande",
+  "UF": "PB",
+  "ENDERECO": "Avenida Prefeito Severino Cabral, 1339 – Mirante – Campina Grande – PB Cep: 58407-660",
+  "INSTITUICAO": "Instituição Vaso Novo",
+  "CNPJ": "30.319.666/0001-78",
+  "CONTATO": "Erilma (83) 99673.6417",
+  "EMAIL": "vasonovoong@gmail.com "
+ },
+ {
+  "LOJA": "Taguatinga Shopping",
+  "CIDADE": "Brasilia ",
+  "UF": "DF",
+  "ENDERECO": "Q QS 3 Rua 420 S/N Lote 4 Areal",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Goiânia Portugal",
+  "CIDADE": "Goiania",
+  "UF": "GO",
+  "ENDERECO": "Av Portugal S/N Quadra L 22 - CEP 74150-030",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Santos Ana Costa",
+  "CIDADE": "Santos ",
+  "UF": "SP",
+  "ENDERECO": "Av Ana Costa nº 340 - CEP: 11060-000",
+  "INSTITUICAO": "ROTARY",
+  "CNPJ": "66.663.949/0001-80",
+  "CONTATO": "11981824072",
+  "EMAIL": "fale@silvanagiannini.com.br"
+ },
+ {
+  "LOJA": "Carioca",
+  "CIDADE": "Rio de Janeiro",
+  "UF": "RJ",
+  "ENDERECO": "Av. Vicente de Carvalho, Nº 00909 - Vicente de Carvalho - CEP 21210-623",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Joquei",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Av. Senador Fernades Tavora Nº 45, Joquei Club, Fortaleza – CE, CEP 60510-111",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Fortaleza Mister Hull",
+  "CIDADE": "Fortaleza",
+  "UF": "CE",
+  "ENDERECO": "Av Mister Hull nº 4300 - CEP  60356-412",
+  "INSTITUICAO": "CUFA - Central Única das Favelas",
+  "CNPJ": "06.052.228/0001-01 ",
+  "CONTATO": "Geovana 11 95958-2933",
+  "EMAIL": "geovanaborges.sp@cufa.org.br"
+ },
+ {
+  "LOJA": "Parque Cesamar",
+  "CIDADE": "Palmas ",
+  "UF": "TO",
+  "ENDERECO": "Quadra 402 Sul, Avenida NS 2 S/N",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ },
+ {
+  "LOJA": "Salvador Rótula",
+  "CIDADE": "Salvador",
+  "UF": "BA",
+  "ENDERECO": "Av Antônio Carlos Magalhães n/ 1400 Loja 0005 - CEP 40260-700",
+  "INSTITUICAO": "Instituto Sos Gente",
+  "CNPJ": "08.343.350.0001-62",
+  "CONTATO": "(13) 98827.5561",
+  "EMAIL": "institutososgente@gmail.com"
+ }
+]

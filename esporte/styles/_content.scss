@@ -1,0 +1,563 @@
+h2 {
+  font-size: 24px;
+}
+
+main {
+  overflow: hidden;
+}
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -70px;
+  visibility: hidden;
+}
+
+.barra-cta {
+  display: flex;
+  gap: 2rem;
+  margin: 2.5rem auto;
+
+  &::before,
+  &::after {
+    content: '';
+    display: block;
+    background: url(images/faixa-inscreva-se.svg) repeat-x right center;
+    background-size: auto 100%;
+    flex: 1 1 auto;
+  }
+
+  &::after {
+    background: url(images/faixa-inscreva-se.svg) repeat-x left center;
+    background-size: auto 100%;
+  }
+
+  .btn {
+    background: #0071BC;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 30px;
+    min-width: 300px;
+    margin: 1rem auto;
+  }
+}
+
+.btn:not(span) {
+  transition: .2s;
+
+  &:hover {
+    transform: translateY(-10%);
+  }
+}
+
+
+span.btn {
+  cursor: default;
+}
+
+@media (max-width: 576px) {
+  main .container {
+    --bs-gutter-x: 3rem;
+  }
+}
+
+section.topo {
+  padding-top: 2rem;
+
+  @media (min-width: 992px) {
+    .container {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  h2 {
+    color: #B71F27;
+    flex: 1 0 320px;
+
+    @media (min-width: 992px) {
+      .container {
+        margin-right: 65px;
+      }
+    }
+  }
+
+  >div p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+section.sobre-instituto {
+  overflow: hidden;
+
+  .container {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin-top: -3rem;
+
+    @media (min-width: 1200px) {
+      padding-right: 14rem;
+      position: relative;
+
+      &::before {
+        content: '';
+        display: block;
+        width: 156px;
+        height: 292px;
+        background: url(images/textura.svg) no-repeat center;
+        background-size: contain;
+
+        position: absolute;
+        left: -3rem;
+        top: 50%;
+        transform: translate(-100%, -50%);
+      }
+
+      &::after {
+        content: '';
+        display: block;
+        width: 340px;
+        height: 310px;
+        background: url(images/instituto.svg) no-repeat center bottom;
+        background-size: contain;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        transform: translate(35%, 0);
+      }
+    }
+  }
+
+  h2 {
+    color: #D4781E;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  .subtitulo {
+    font-size: 20px;
+  }
+
+  .links {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    justify-content: center;
+
+    @media (min-width: 768px) {
+      justify-content: flex-start;
+    }
+
+    .btn {
+      background-color: #B71F27;
+      color: #ffffff;
+      border-radius: 30px;
+      font-weight: 500;
+      text-transform: uppercase;
+      min-width: 280px;
+      cursor: default;
+    }
+  }
+}
+
+section.sobre-projeto {
+  background: #E9B633;
+  overflow: hidden;
+
+  .container {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+    @media (min-width: 992px) {
+      padding-left: 30%;
+      position: relative;
+
+      &::before {
+        content: '';
+        display: block;
+        width: 50%;
+        height: 100%;
+        background: url(images/menino-com-bola.webp) no-repeat right bottom;
+        background-size: auto 100%;
+        position: absolute;
+        right: 70%;
+        bottom: 0;
+      }
+
+      &::after {
+        content: "";
+        display: block;
+        width: 50%;
+        height: 100%;
+        max-height: 310px;
+        background: url(images/elemento.svg) no-repeat left center;
+        background-size: contain;
+        position: absolute;
+        right: 0;
+        top: 0;
+        transform: translate(100%, 20%);
+      }
+    }
+  }
+
+  h2 {
+    background: #ffffff;
+    color: #B71F27;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0.5em 1em 0.4em;
+    border-radius: 2em;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  p {
+    color: #B71F27;
+    font-weight: 400;
+    font-size: 16px;
+
+    @media (min-width: 992px) {
+      padding-left: 1.5rem;
+    }
+  }
+
+  .btn {
+    background: #0071BC;
+    color: #ffffff;
+    border-radius: 2rem;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 0.8em 3em
+  }
+}
+
+section.beneficios {
+  text-align: center;
+  padding: 2rem 0;
+
+  h2 {
+    color: #FF9E1B;
+    background: #B71F27;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0.5em 1em 0.4em;
+    border-radius: 2em;
+    text-align: center;
+    min-width: 300px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  .lista-beneficios {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1rem;
+
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: 1200px) {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 4rem;
+    }
+  }
+
+  .beneficio {
+    text-align: left;
+
+    img {
+      display: block;
+    }
+
+    h3 {
+      color: #D4781E;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 110%;
+      margin-bottom: 12px;
+      margin-top: 16px;
+
+      @media (min-width: 768px) {
+        min-height: 36px;
+      }
+    }
+
+    p {
+      color: #797979;
+      font-size: 16px;
+      font-weight: 325;
+      line-height: 120%;
+    }
+  }
+}
+
+section.quem-pode-particpar {
+  background: #B71F27;
+  color: #ffffff;
+  padding-bottom: 2.5rem;
+
+  &::before {
+    content: '';
+    display: block;
+    height: 250px;
+    background: url(images/d546e032a49b50b9edc72344c9cade0b.webp) no-repeat center;
+    background-size: cover;
+  }
+
+  h2 {
+    background: #ffffff;
+    color: #B71F27;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0.5em 1em 0.4em;
+    border-radius: 2em;
+    text-align: center;
+    transform: translateY(-50%);
+  }
+
+  ul {
+    margin-bottom: 3rem;
+    padding-left: 1.8rem;
+  }
+
+  .btn {
+    background: #0071BC;
+    color: #ffffff;
+    border-radius: 2rem;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0.3em 2em;
+    max-width: 100%;
+  }
+}
+
+section.como-vai-funcionar {
+  padding-top: 3rem;
+
+  h2 {
+    color: #FF9E1B;
+    background: #B71F27;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0.5em 1em 0.4em;
+    border-radius: 2em;
+    text-align: center;
+    min-width: 300px;
+    margin-bottom: 1rem;
+  }
+
+  .etapas {
+    padding: 1.5rem 0 0 1.5rem;
+
+    @media (min-width: 768px) {
+      padding: 2rem 0 0 3.5rem;
+    }
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+
+  header {
+    border-left: dotted 2px #E9B633;
+    padding-left: 3rem;
+    padding-bottom: 1.5rem;
+    margin-top: 2px;
+    position: relative;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 47px;
+      height: 47px;
+      background: #E9B633;
+      position: absolute;
+      left: -25px;
+      top: -11px;
+      background: url(images/icone-inicial.svg) repeat-x center;
+      background-size: cover;
+    }
+
+    &.avancado::after {
+      background: url(images/icone-avancado.svg) repeat-x center;
+      background-size: cover;
+    }
+
+    h3 {
+      color: #B71F27;
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .etapa {
+    border-left: dotted 2px #E9B633;
+    padding-left: 3rem;
+    padding-bottom: 1.5rem;
+    margin-top: 2px;
+    position: relative;
+
+    &.last {
+      border-left: dotted 2px transparent;
+      margin-top: 0;
+      padding-bottom: 0;
+    }
+
+    &::after {
+      content: "";
+      display: block;
+      width: 12px;
+      height: 12px;
+      background: #E9B633;
+      border-radius: 100%;
+      position: absolute;
+      left: -7px;
+      top: 3px;
+    }
+
+    &.bonus {
+      color: #D4781E;
+
+      &::after {
+        content: "";
+        display: block;
+        width: 30px;
+        height: 30px;
+        background: #E9B633;
+        position: absolute;
+        left: -16px;
+        top: -7px;
+        background: url(images/icone-etapa.svg) repeat-x center;
+        background-size: cover;
+        border-radius: 0;
+      }
+    }
+  }
+}
+
+section.conteudo-programatico {
+  background: #D4781E;
+  padding: 3rem 0;
+  overflow: hidden;
+
+  .container {
+    position: relative;
+
+    @media (min-width: 768px) {
+      &::before {
+        content: "";
+        display: block;
+        width: 200px;
+        height: 350px;
+        background: url(images/elemento2.svg) no-repeat right bottom;
+        background-size: auto 100%;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translate(-100%, -50%);
+      }
+
+      &::after {
+        content: "";
+        display: block;
+        width: 250px;
+        height: 524px;
+        background: url(images/elemento2.svg) no-repeat left center;
+        background-size: contain;
+        position: absolute;
+        right: 0;
+        top: 0;
+        transform: translate(78%, -46%);
+      }
+    }
+  }
+
+  h2 {
+    color: #B71F27;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .lista {
+    color: #ffffff;
+
+    @media (min-width: 768px) {
+      display: flex;
+      justify-content: center;
+      gap: 4rem;
+    }
+
+    ul {
+      margin: 0;
+      text-transform: uppercase;
+      line-height: 1.4;
+    }
+  }
+}
+
+section.cronograma {
+  padding: 3rem 0 2rem;
+
+  h2 {
+    color: #ffffff;
+    background: #B71F27;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0.5em 1em 0.4em;
+    border-radius: 2em;
+    text-align: center;
+    min-width: 300px;
+  }
+
+  @media (min-width: 1200px) {
+    .container {
+      padding-left: 30%;
+      position: relative;
+
+      &::after {
+        content: "";
+        display: block;
+        width: 330px;
+        height: 330px;
+        background: url(images/textura2.svg) no-repeat center;
+        background-size: contain;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translate(70%, -50%);
+      }
+
+      h2 {
+        position: absolute;
+        background: url(images/bg-cronograma.webp) no-repeat center;
+        background-size: contain;
+        color: #DA291C;
+        left: 0;
+        padding: 10rem 5rem 31rem 14rem;
+        z-index: 1;
+        font-size: 28px;
+        top: 0;
+        transform: translate(-28%, -8%);
+      }
+    }
+  }
+}
